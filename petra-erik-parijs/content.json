@@ -1,0 +1,1038 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-14T11:36:53Z",
+  "intro": {
+    "nl": "Even voorstellen: wij zijn Petra en Erik. Vanuit onze uitvalsbasis in Amsterdam reizen we sinds 2017 één à twee keer per maand naar ons eigen plekje in Le Marais. Of we nu met z’n tweeën zijn, met vrienden, of wanneer onze studerende kinderen het appartement overnemen met hun eigen vrienden: Parijs verveelt nooit. Zelfs met een beperkt studentenbudget is er in deze stad namelijk ontzettend veel te beleven.\n\nOnze passie voor goed eten en nieuwe ontdekkingen leidde tot een telefoon vol digitale notities. Die persoonlijke lijstjes hebben we nu gebundeld in deze app. Je zult hier geen toeristische trekpleisters zoals de Eiffeltoren vinden, maar juist die specifieke, eigenzinnige plekken waar wij zelf het liefst komen. Helemaal onze eigen smaak dus. Veel plezier met onze persoonlijke favorieten!",
+    "fr": "Bonjour ! Nous sommes Petra et Erik. Depuis 2017, nous quittons Amsterdam une à deux fois par mois pour retrouver notre petit coin de paradis dans Le Marais. Que ce soit en couple, entre amis, ou lorsque nos enfants, étudiants, s'approprient l'appartement avec leurs camarades : Paris ne manque jamais d'occasions de nous séduire. Même avec un budget modeste, cette ville regorge de possibilités.\n\nNotre amour pour la bonne cuisine et les belles découvertes a rempli nos téléphones de notes. Nous avons décidé de rassembler toutes ces adresses personnelles dans cette application. Oubliez la Tour Eiffel et les classiques, ici vous trouverez plutôt les lieux authentiques et originaux que *nous* adorons. C'est notre Paris, à vous de l'explorer ! On espère que nos coups de cœur vous plairont.",
+    "en": "Hi, we’re Petra and Erik! We’re based in Amsterdam, but since 2017 we’ve been escaping to our little place in Le Marais a couple of times each month. Whether it’s just the two of us, a trip with friends, or even letting our student kids take over with *their* friends, Paris always delivers. And it doesn’t take a fortune to have an amazing time here – even on a student budget!\n\nOur love of good food and finding hidden gems quickly filled our phones with notes. Now we’ve turned those personal recommendations into this app. Don’t expect to find the Eiffel Tower; instead, we’re sharing the unique, slightly offbeat places *we* adore. These are our personal favourites, so we hope you enjoy discovering them too!",
+    "de": "Lass mich vorstellen: Wir sind Petra und Erik. Seit 2017 reisen wir von unserem Ausgangspunkt in Amsterdam aus ein- bis zweimal im Monat zu unserem eigenen kleinen Ort in Le Marais. Egal ob wir zu zweit sind, mit Freunden, oder wenn unsere studierenden Kinder die Wohnung mit ihren eigenen Freunden übernehmen: Paris wird einem nie langweilig. Selbst mit einem begrenzten Studentenbudget gibt es in dieser Stadt unglaublich viel zu erleben.\n\nUnsere Leidenschaft für gutes Essen und neue Entdeckungen führte zu einem Telefon voller digitaler Notizen. Diese persönlichen Listen haben wir jetzt in dieser App gebündelt. Hier wirst du keine touristischen Anziehungspunkte wie den Eiffelturm finden, sondern eben genau diese spezifischen, eigenwilligen Orte, die wir selbst am liebsten besuchen. Also ganz nach unserem Geschmack. Viel Spaß mit unseren persönlichen Favoriten!",
+    "es": "Déjenme presentarles: somos Petra y Erik. Desde nuestra base en Amsterdam, viajamos a nuestro propio rinconcito en Le Marais una o dos veces al mes desde 2017. Ya sea que estemos los dos, con amigos, o cuando nuestros hijos estudiantes se apoderan del apartamento con sus propios amigos: París nunca aburre. Incluso con un presupuesto estudiantil limitado, hay muchísimo que experimentar en esta ciudad.\n\nNuestra pasión por la buena comida y nuevos descubrimientos nos llevó a tener un teléfono lleno de notas digitales. Ahora hemos recopilado esas listas personales en esta app. Aquí no encontrarán atracciones turísticas como la Eiffeltoren, sino esos lugares específicos y peculiares a los que más nos gusta ir. Es totalmente a nuestro gusto. ¡Que disfruten de nuestros favoritos personales!",
+    "pt": "Deixa-me apresentar: somos a Petra e o Erik. A partir da nossa base em Amsterdam, viajamos para o nosso cantinho em Le Marais uma ou duas vezes por mês desde 2017. Quer estejamos os dois, com amigos, ou quando os nossos filhos estudantes tomam conta do apartamento com os seus próprios amigos: Paris nunca aborrece. Mesmo com um orçamento de estudante limitado, há imenso para descobrir nesta cidade.\n\nA nossa paixão por boa comida e novas descobertas levou-nos a ter um telemóvel cheio de notas digitais. Reunimos essas listas pessoais nesta app. Não vais encontrar aqui atrações turísticas como a Eiffeltoren, mas sim aqueles sítios específicos e peculiares que nós próprios adoramos. É tudo ao nosso gosto, portanto. Desfruta dos nossos favoritos!",
+    "it": "Piacere di conoscervi: siamo Petra ed Erik. Dalla nostra base ad Amsterdam, viaggiamo a Parigi da circa il 2017, una o due volte al mese, per raggiungere il nostro piccolo angolo di paradiso a Le Marais. Che siamosi solo noi due, con amici, o quando i nostri figli studenti prendono possesso dell'appartamento con i loro amici: Parigi non annoia mai. Anche con un budget da studente limitato, questa città offre tantissime esperienze.\n\nLa nostra passione per il buon cibo e le nuove scoperte ci ha portato ad avere un telefono pieno di appunti digitali. Abbiamo raccolto quei nostri elenchi personali in questa app. Qui non troverete attrazioni turistiche come la Tour Eiffel, ma proprio quei posti specifici e originali che amiamo frequentare noi. Quindi, i nostri gusti personali al 100%. Buon divertimento con i nostri preferiti!"
+  },
+  "items": [
+    {
+      "id": "10k-langs-de-seine",
+      "name": "10k langs de Seine",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "coordinates": {
+        "lat": 48.854287,
+        "lon": 2.354789
+      },
+      "text": {
+        "nl": "10 km langs de Seine. Als Erik een rondje wil lopen, loopt hij de Rue Vieille du Temple uit naar de Seine. Vanaf de kade loop je richting de Eiffeltoren, door de graffiti-tunnel onder een van de bruggen. Bij de eerste brug daarna steek je over naar de linkeroever. Dan loop je langs het water naar de toren en weer terug. Een mooi, vlak 10K-rondje met steeds wat te zien.",
+        "fr": "Dix kilomètres le long de la Seine : un vrai bonheur. Quand j'ai envie de prendre l'air, je sors de la rue Vieille du Temple et je me dirige vers la Seine. Depuis les quais, je marche vers la Tour Eiffel, en traversant le tunnel graffité sous l'un des ponts. Juste après, je traverse sur l'autre rive. Ensuite, je suis le fil de l'eau jusqu'à la tour, puis je fais le chemin du retour. C'est une belle promenade de 10 kilomètres, bien plate, et il y a toujours quelque chose d'intéressant à regarder.",
+        "en": "10K Along the Seine\n\nWhen I’m itching for a run, I usually start near Rue Vieille du Temple and head for the Seine. From the quays, I run towards the Eiffel Tower, right through the graffiti tunnel under one of the bridges. After that first bridge, I cross over to the left bank and then run along the water, towards the tower and back again. It’s a lovely, flat 10K loop with interesting sights all along the way.",
+        "de": "10 km entlang der Seine. Wenn Erik eine Runde laufen möchte, läuft er von der Rue Vieille du Temple aus zur Seine. Vom Quai aus geht man Richtung Eiffelturm, durch den Graffiti-Tunnel unter einer der Brücken. Bei der ersten Brücke danach überquert man die linke Seineuferseite. Dann läuft man am Wasser entlang zum Turm und wieder zurück. Eine schöne, flache 10K-Runde mit immer etwas zu sehen.",
+        "es": "10 km a lo largo del Sena. Si Erik quiere dar una vuelta corriendo, sale por la Rue Vieille du Temple hacia el Sena. Desde el muelle, caminas en dirección a la Tour Eiffel, pasando por el túnel de grafitis debajo de uno de los puentes. En el primer puente después, cruzas hacia la orilla izquierda. Luego caminas por la orilla hacia la torre y de vuelta. Una bonita vuelta plana de 10K con algo interesante para ver siempre.",
+        "pt": "10 km ao longo do Sena. Quando eu, Erik, quero fazer uma corrida, saio da Rue Vieille du Temple em direção ao Sena. A partir do cais, caminha-se em direção à Tour Eiffel, passando pelo túnel de grafites sob uma das pontes. Na primeira ponte depois, atravesso para a margem esquerda. Depois, caminho ao longo da água em direção à torre e de volta. Uma corrida bonita e plana de 10K com sempre algo para ver.",
+        "it": "10 km lungo la Seine. Quando Erik vuole fare una corsa, esce da Rue Vieille du Temple verso la Seine. Dal lungofiume si cammina in direzione della Tour Eiffel, attraverso il tunnel dei graffiti sotto uno dei ponti. Al primo ponte dopo si attraversa verso la riva sinistra. Poi si cammina lungo l'acqua verso la torre e di nuovo indietro. Un bel giro di 10K pianeggiante con sempre qualcosa da vedere."
+      }
+    },
+    {
+      "id": "adidas-10k",
+      "name": "Adidas 10K",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "coordinates": {
+        "lat": 48.873619,
+        "lon": 2.293098
+      },
+      "text": {
+        "nl": "De Adidas 10K in september. In Parijs is er bijna elk weekend wel een 10K, maar deze heeft een parcours dat de meeste andere ver achter zich laat: langs de Eiffeltoren, over de Concorde, langs het Louvre, de Opera Garnier, de Champs-Élysées, en de finish bij de Arc de Triomphe. Echt ongekend om zo dwars door het centrum van Parijs te mogen lopen.\n\nKaartjes gaan snel. Zodra de verkoop opengaat, niet wachten.",
+        "fr": "L'Adidas 10K de septembre à Paris… C'est un rendez-vous à ne pas manquer ! Il y a bien sûr des courses de 10 km presque tous les week-ends à Paris, mais celle-ci est vraiment exceptionnelle : le parcours est magnifique, avec des vues imprenables sur la Tour Eiffel, la Place de la Concorde, le Louvre, l'Opéra Garnier, les Champs-Élysées, et arrivée triomphale à l'Arc de Triomphe. C'est vraiment incroyable de courir au cœur de Paris, à travers des lieux aussi emblématiques.\n\nLes places partent très vite. Dès l'ouverture des inscriptions, il faut être réactif !",
+        "en": "The Adidas 10K in Paris in September is something special. Paris has a 10K almost every weekend, but this one’s course is in a league of its own: you’ll run past the Eiffel Tower, over the Place de la Concorde, and right by the Louvre, the Opéra Garnier, and the Champs-Élysées, finishing up at the Arc de Triomphe. It’s honestly incredible to be able to run right through the heart of Paris like that.\n\nTickets sell out quickly, so don’t hesitate when registration opens.",
+        "de": "Der Adidas 10K im September. In Paris gibt es fast jedes Wochenende einen 10K, aber dieser hat eine Strecke, die die meisten anderen weit hinter sich lässt: entlang des Eiffelturms, über die Concorde, am Louvre vorbei, an der Opera Garnier, die Champs-Élysées, und der Ziel ist am Arc de Triomphe. Wirklich unglaublich, so mitten durch das Zentrum von Paris laufen zu dürfen.\n\nTickets sind schnell weg. Sobald der Verkauf losgeht, nicht warten.",
+        "es": "La Adidas 10K en septiembre. En París hay casi cada fin de semana una 10K, pero esta tiene un recorrido que deja muy atrás a la mayoría de las otras: pasando por la Tour Eiffel, por la Concorde, por el Louvre, la Opéra Garnier, los Champs-Élysées, y la meta en el Arc de Triomphe. Realmente increíble poder correr así por el centro de París.\n\nLas entradas se agotan rápido. En cuanto abran las ventas, no esperes.",
+        "pt": "A Adidas 10K em setembro. Em Paris, quase todo fim de semana tem uma 10K, mas esta tem um percurso que deixa a maioria das outras bem para trás: passando pela Tour Eiffel, pela Concorde, pelo Louvre, pela Opéra Garnier, pela Champs-Élysées, e a chegada no Arc de Triomphe. É realmente incrível poder correr assim, bem no centro de Paris.\n\nOs ingressos acabam rápido. Assim que a venda abrir, não espere.",
+        "it": "L'Adidas 10K a settembre. A Parigi c'è quasi ogni weekend una 10K, ma questa ha un percorso che lascia indietro la maggior parte delle altre: lungo la Tour Eiffel, attraverso la Concorde, passando per il Louvre, l'Opéra Garnier, gli Champs-Élysées, e l'arrivo all'Arc de Triomphe. Davvero incredibile poter correre così attraverso il centro di Parigi.\n\nI biglietti vanno a ruba. Appena la vendita si apre, non aspettare."
+      }
+    },
+    {
+      "id": "atelier-des-lumieres",
+      "name": "Atelier des Lumieres",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "38 Rue Saint-Maur, 75011 Paris",
+      "coordinates": {
+        "lat": 48.861889,
+        "lon": 2.381161
+      },
+      "text": {
+        "nl": "Atelier des Lumières. Digital immersive art — video en muziek die van alle kanten tegelijk op je afkomen.\n\nEr draait een doorgaande voorstelling die de hele ruimte vult. Die duurt 30 tot 45 minuten, waarna hij opnieuw begint. Je kunt elk moment naar binnen en elk moment weer weg. Er zijn geen stoelen — je staat, of je gaat op de vloer zitten.\n\nInmiddels hebben ze ook een vestiging op het Westergasterrein in Amsterdam.",
+        "fr": "L'Atelier des Lumières. Un centre d'art numérique immersif où les vidéos et la musique vous enveloppent complètement.\n\nUn spectacle continu inonde tout l'espace. Il dure entre 30 et 45 minutes, puis reprend son cours. Vous pouvez entrer et sortir comme bon vous semble. Pas de sièges ici : on reste debout ou on s'assoit par terre.\n\nPour ceux qui voudraient tester l'expérience avant de se déplacer à Paris, sachez qu'ils ont ouvert un espace similaire sur le site de Westergas à Amsterdam.",
+        "en": "Atelier des Lumières is a truly unique experience – completely immersive digital art where video and music surround you from every angle.\n\nA continuous show fills the entire space, lasting around 30 to 45 minutes before looping back to the beginning. You can wander in and out as you please, and while there’s no seating, most people happily stand or find a spot on the floor.\n\nIf you’re curious and want to try something similar first, they’ve also opened a location at Westergas in Amsterdam!",
+        "de": "Atelier des Lumières. Digital Immersive Art — Videos und Musik, die von allen Seiten gleichzeitig auf dich zukommen.\n\nDort läuft eine durchgehende Vorstellung, die den gesamten Raum erfüllt. Die Vorstellung dauert 30 bis 45 Minuten, wonach sie von vorne beginnt. Du kannst jederzeit hineingehen und jederzeit wieder heraus. Es gibt keine Stühle – du stehst oder setzt dich auf den Boden.\n\nMittlerweile haben sie auch eine Niederlassung auf dem Westergas Gelände in Amsterdam, für wen zuerst sehen möchte, ob es etwas für ihn ist.",
+        "es": "Atelier des Lumières. Arte Inmersivo Digital — video y música que te vienen de todas partes a la vez.\n\nHay una representación continua que llena todo el espacio. La representación dura de 30 a 45 minutos, después de lo cual vuelve a empezar. Puedes entrar en cualquier momento y salir cuando quieras. No hay sillas — estás de pie, o te sientas en el suelo.\n\nMittlerweile también tienen una sede en el terreno de Westergas en Amsterdam, para quien quiera ver primero si es algo para él.",
+        "pt": "Atelier des Lumières. Arte Digital Imersiva — vídeos e música que vêm de todos os lados ao mesmo tempo.\n\nEstá a passar um espetáculo contínuo que enche todo o espaço. O espetáculo dura de 30 a 45 minutos, depois começa de novo. Podes entrar a qualquer momento e sair a qualquer momento. Não há cadeiras — estás de pé, ou sentas-te no chão.\n\nEntretanto, também têm um estabelecimento no terreno de Westergas em Amsterdam, para quem quiser primeiro ver se é algo para ele.",
+        "it": "Atelier des Lumières. Arte Digitale Immersiva — video e musica che ti arrivano da ogni direzione contemporaneamente.\n\nC’è uno spettacolo continuo che riempie tutto lo spazio. Lo spettacolo dura dai 30 ai 45 minuti, dopodiché ricomincia. Puoi entrare quando vuoi e uscire quando vuoi. Non ci sono sedie — stai in piedi, oppure ti siedi per terra.\n\nNel frattempo hanno anche una sede sul terreno di Westergas ad Amsterdam, per chi vuole prima vedere se fa per lui."
+      }
+    },
+    {
+      "id": "au-petit-fer-a-cheval",
+      "name": "Au Petit Fer a Cheval",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "30, Rue Vieille du Temple",
+      "coordinates": {
+        "lat": 48.857479,
+        "lon": 2.357535
+      },
+      "text": {
+        "nl": "Onze stamkroeg. Of beter gezegd: ons stamterras. Als we donderdag laat aankomen uit Nederland, dan is dit de plek waar we nog even wat gaan drinken. Omdat het in de buurt is, maar ook omdat Bouba zo goed voor ons zorgt. Zijn betrokkenheid bij de klanten van de Fer a Cheval is echt ongelofelijk. Als onze zoon een maand eerder een lastig examen had dan weet hij dat nog en vraagt hij er naar.",
+        "fr": "Notre petit repère, à vrai dire. Ou plutôt, notre terrasse préférée. Quand on arrive tard le jeudi après une journée aux Pays-Bas, on sait qu'on peut toujours compter sur l'Au Petit Fer à Cheval pour boire un verre. C'est pratique, bien sûr, mais surtout, c'est Bouba qui fait toute la différence. Son attention pour les clients est vraiment remarquable. Il se souvient même que notre fils avait un examen important il y a quelques semaines et prend le temps de me demander comment ça s'est passé.",
+        "en": "It’s our go-to spot, really—more specifically, our go-to terrace. Whenever we arrive in Paris late on a Thursday from the Netherlands, this is where we always end up for a drink. It’s convenient, of course, but it’s mostly because of Bouba. He’s incredible with his customers; he genuinely cares. He even remembered our son had a tough exam a month ago and asked how it went!",
+        "de": "Unsere Stammkneipe. Oder besser gesagt: unsere Stammterrasse. Wenn wir donnerstags spät aus den Niederlanden ankommen, dann ist das der Ort, wo wir noch einen Drink nehmen. Weil es in der Nähe ist, aber auch weil Bouba so gut auf uns achtet. Sein Engagement für die Kunden der Fer a Cheval ist wirklich unglaublich. Wenn unser Sohn vor einem Monat eine schwierige Prüfung hatte, weiß er das noch und fragt danach.",
+        "es": "Nuestro bar de siempre. O mejor dicho: nuestra terraza de siempre. Si llegamos tarde el jueves desde Nederland, este es el lugar donde vamos a tomar algo. Porque está cerca, pero también porque Bouba nos atiende tan bien. Su dedicación a los clientes de la Fer a Cheval es realmente increíble. Si nuestro hijo tuvo un examen difícil un mes antes, todavía lo recuerda y me pregunta por ello.",
+        "pt": "O nosso bar favorito. Ou melhor dizendo: a nossa esplanada favorita. Quando chegamos tarde na quinta-feira da Holanda, este é o lugar onde vamos beber mais alguma coisa. Porque é perto, mas também porque o Bouba trata-nos tão bem. A sua dedicação aos clientes da Fer a Cheval é realmente incrível. Se o nosso filho teve um exame difícil um mês antes, ele lembra-se e pergunta como correu.",
+        "it": "La nostra birreria di fiducia. O meglio: il nostro terrazzino preferito. Quando arriviamo tardi il giovedì dai Paesi Bassi, questo è il posto dove andiamo a bere ancora qualcosa. Perché è vicino, ma anche perché Bouba si prende cura di noi in modo fantastico. La sua attenzione verso i clienti della Fer a Cheval è davvero incredibile. Se nostro figlio ha avuto un esame difficile un mese fa, se lo ricorda ancora e me lo chiede."
+      }
+    },
+    {
+      "id": "au-petit-passage",
+      "name": "Au Petit Passage",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "8 Rue de la Main d'Or, 75011 Paris",
+      "coordinates": {
+        "lat": 48.851615,
+        "lon": 2.37818
+      },
+      "text": {
+        "nl": "Au Petit Passage. Het kleine broertje van Au Passage.\n\nHet menu is wisselend: het verandert regelmatig op basis van wat er op dat moment goed is. Je weet dus nooit precies wat je aantreft, maar dat is precies het idee.",
+        "fr": "Au Petit Passage. Le petit frère d'Au Passage, en quelque sorte.\n\nLa carte évolue constamment, au fil des saisons et des arrivages. Difficile de prévoir à l'avance ce qu'on y trouvera, mais c'est précisément ce qui fait son charme.",
+        "en": "Au Petit Passage is the little sibling to Au Passage, and it’s fantastic.\n\nThe menu is constantly evolving – it changes with whatever’s freshest and best right now. You can’t really predict what will be on offer, and honestly, that’s part of the fun.",
+        "de": "Au Petit Passage. Der kleine Bruder von Au Passage.\n\nDie Speisekarte wechselt: sie ändert sich regelmäßig, je nachdem, was gerade gut ist. Man weiß also nie genau, was einen erwartet, aber das ist ja gerade die Idee.",
+        "es": "Au Petit Passage. El hermano pequeño de Au Passage.\n\nLa carta cambia: varía regularmente según lo que esté bueno en ese momento. Así que nunca sabes exactamente con qué te vas a encontrar, pero esa es precisamente la idea.",
+        "pt": "Au Petit Passage. O irmão mais novo do Au Passage.\n\nO menu é variável: muda frequentemente dependendo do que estiver bom no momento. Então nunca se sabe exatamente o que vai encontrar, mas é exatamente essa a ideia.",
+        "it": "Au Petit Passage. Il fratellino di Au Passage.\n\nIl menu è variabile: cambia regolarmente in base a ciò che è buono in quel momento. Quindi non sai mai esattamente cosa troverai, ma è proprio questo il bello."
+      }
+    },
+    {
+      "id": "bouillon-chartier",
+      "name": "Bouillon Chartier",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "7 Rue du Faubourg Montmartre, 75009 Paris",
+      "coordinates": {
+        "lat": 48.871936,
+        "lon": 2.343014
+      },
+      "text": {
+        "nl": "Bouillon Chartier. Het Bouillon-concept is simpel en mooi: 'Offrir un repas digne à un prix modeste.' Een fatsoenlijke maaltijd voor een bescheiden prijs. En dat in een van de mooiste eetgelegenheden van Parijs.\n\nAls onze kinderen zonder ons in Parijs zijn, is Chartier een vaste plek op hun lijstje. Je kunt hier niet reserveren — je staat gewoon in de rij. Eenmaal binnen bestel je bij een kelner die de bestelling op het papieren tafellaken schrijft.\n\nHet favoriete gerecht van de kinderen: 'Pièce du boucher, frites et sauce poivre.' Biefstuk met friet en pepersaus. Meer hebben ze niet nodig.\n\nIn Amsterdam is inmiddels ook een Bouillon geopend. Zijn we ook geweest. Zelfde concept, zelfde sfeer. Aanrader.",
+        "fr": "Bouillon Chartier. Le concept est simple et charmant : « Offrir un repas correct à un prix modeste. » Et c’est exactement ce qu’on y trouve, le tout dans un cadre parisien magnifique.\n\nQuand nos enfants viennent à Paris sans nous, Chartier est toujours sur leur liste. Pas de réservation ici – il faut faire la queue. Une fois installés, on commande à un serveur qui note directement sur la nappe en papier.\n\nLeur plat favori ? La « pièce du boucher », frites et sauce au poivre. Un bon steak, des frites, et une sauce bien relevée. Ils ne demandent rien d’autre.\n\nUn Bouillon a aussi ouvert à Amsterdam, où nous avons eu l’occasion d’aller. Même principe, même ambiance. Je recommande vivement.",
+        "en": "Bouillon Chartier. The idea behind Chartier is wonderfully simple: “To offer a decent meal at a modest price.” And they do just that, all within the stunning walls of one of Paris’s most beautiful restaurants.\n\nWhen our kids are in Paris without us, Chartier is always on their must-do list. You can’t book a table – you just join the queue. Once you’re in, a waiter will take your order, scribbling it right onto the paper tablecloth.\n\nTheir go-to dish? ‘Pièce du boucher, frites et sauce poivre’ – steak with fries and pepper sauce. It’s all they ever need.\n\nA Bouillon has also opened in Amsterdam now, and Petra and I have been there too. Same concept, same vibe. We highly recommend it.",
+        "de": "Bouillon Chartier. Das Bouillon-Konzept ist simpel und schön: 'Offrir un repas digne à un prix modeste.' Ein ordentliches Essen zu einem bescheidenen Preis. Und das in einem der schönsten Lokale von Paris.\n\nWenn unsere Kinder ohne uns in Paris sind, ist Chartier ein fester Punkt auf ihrer Liste. Man kann hier nicht reservieren – man steht einfach in der Schlange. Einmal drinnen bestellt man bei einem Kellner, der die Bestellung auf die Papier Tischdecke schreibt.\n\nDas Lieblingsgericht der Kinder: 'Pièce du boucher, frites et sauce poivre.' Steak mit Pommes und Pfeffersauce. Mehr brauchen sie nicht.\n\nIn Amsterdam ist inzwischen auch ein Bouillon eröffnet worden. Waren wir auch schon. Gleiches Konzept, gleiche Atmosphäre. Empfehlenswert.",
+        "es": "Bouillon Chartier. El concepto de Bouillon es simple y bonito: 'Offrir un repas digne à un prix modeste.' Una comida decente a un precio modesto. Y eso en uno de los restaurantes más bonitos de París.\n\nCuando nuestros hijos están en París sin nosotros, Chartier es un lugar fijo en su lista. No se puede reservar aquí — simplemente haces cola. Una vez dentro, pides a un camarero que escribe el pedido en el mantel de papel.\n\nEl plato favorito de los niños: 'Pièce du boucher, frites et sauce poivre.' Bistec con patatas fritas y salsa de pimienta. No necesitan más.\n\nEn Ámsterdam también han abierto un Bouillon. Hemos ido también. Mismo concepto, misma atmósfera. Lo recomiendo.",
+        "pt": "Bouillon Chartier. O conceito do Bouillon é simples e bonito: 'Offrir un repas digne à un prix modeste.' Uma refeição decente por um preço modesto. E isso em um dos restaurantes mais bonitos de Paris.\n\nQuando os nossos filhos estão em Paris sem nós, o Chartier é um lugar fixo na lista deles. Não se pode fazer reserva aqui — simplesmente se espera na fila. Uma vez dentro, pede-se a um garçom que anota o pedido na toalha de papel.\n\nO prato favorito dos filhos: 'Pièce du boucher, frites et sauce poivre.' Bife com batatas fritas e molho de pimenta. Mais eles não precisam.\n\nEm Amsterdam, um Bouillon também abriu. Já fomos lá. Mesmo conceito, mesma atmosfera. Recomendo.",
+        "it": "Bouillon Chartier. Il concetto di Bouillon è semplice e bello: 'Offrir un repas digne à un prix modeste.' Un pasto decente ad un prezzo modesto. E questo in uno dei più bei ristoranti di Parigi.\n\nQuando i nostri figli sono a Parigi senza di noi, Chartier è un posto fisso nella loro lista. Non si può prenotare — si fa semplicemente la fila. Una volta dentro, ordini ad un cameriere che scrive l'ordine sulla tovaglia di carta.\n\nIl piatto preferito dei bambini: 'Pièce du boucher, frites et sauce poivre.' Bistecca con patatine fritte e salsa al pepe. Non hanno bisogno di altro.\n\nAd Amsterdam è stato aperto anche un Bouillon. Ci siamo andati anche noi. Stesso concetto, stessa atmosfera. Lo consiglio."
+      }
+    },
+    {
+      "id": "bouillons-julien",
+      "name": "Bouillon Julien",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "16 Rue du Faubourg Saint-Denis, 75010 Paris",
+      "coordinates": {
+        "lat": 48.870545,
+        "lon": 2.353178
+      },
+      "text": {
+        "nl": "Bouillons Julien. Hetzelfde concept als Chartier: 'Offrir un repas digne à un prix modeste.' Betaalbaar, klassiek, en in een van de mooiste zalen van Parijs.\n\nAls de kinderen zonder ons in de stad zijn, staat Julien op hun lijstje. Het verschil met Chartier: hier kun je wél reserveren. Dat scheelt een rij buiten.\n\nHet favoriete gerecht van de kinderen is ook hier: 'Pièce du boucher, frites et sauce poivre.' Biefstuk met friet en pepersaus. Ze zijn er consequent in.\n\nIn Amsterdam is inmiddels ook een Bouillon geopend. Zelfde concept, zelfde sfeer. Aanrader.",
+        "fr": "Le Bouillon Julien… Même esprit que chez Chartier : proposer un repas correct à des prix très abordables. C’est classique, simple, et surtout, on y mange dans l’une des plus belles salles de Paris.\n\nQuand les enfants viennent nous rendre visite sans Petra et moi, ils filent directement chez Julien. L’avantage par rapport à Chartier, c’est qu’on peut réserver, ce qui évite une longue attente dehors.\n\nIls adorent le même plat qu’ailleurs : “la pièce du boucher, frites et sauce au poivre”. Un bon steak-frites, sauce poivre, ils ne déçoivent jamais sur ce point.\n\nD’ailleurs, un Bouillon a ouvert ses portes à Amsterdam, avec le même concept et la même ambiance. Je recommande vivement.",
+        "en": "Bouillon Julien. It’s the same idea as Chartier – “to offer a decent meal at a modest price.” Affordable, classic French cuisine, and housed in one of the most beautiful dining rooms in Paris.\n\nWhen the kids are visiting without us, Julien is always on their list. The big difference from Chartier is that you *can* actually make a reservation here, which means skipping the line.\n\nThey always order the same thing: ‘Pièce du boucher, frites et sauce poivre’ – steak with fries and pepper sauce. They’re creatures of habit, that’s for sure!\n\nThere’s now a Bouillon in Amsterdam too, with the same concept and atmosphere. Definitely worth checking out.",
+        "de": "Bouillons Julien. Dasselbe Konzept wie Chartier: „Ein würdiges Essen zu einem bescheidenen Preis anbieten.“ Bezahlbar, klassisch und in einem der schönsten Säle von Paris.\n\nWenn die Kinder ohne uns in der Stadt sind, steht Julien auf ihrer Liste. Der Unterschied zu Chartier: hier kann man reservieren. Das spart eine Schlange draußen.\n\nDas Lieblingsgericht der Kinder ist auch hier: „Pièce du boucher, frites et sauce poivre.“ Steak mit Pommes und Pfeffersauce. Sie sind da konsequent.\n\nIn Amsterdam hat inzwischen auch eine Bouillon eröffnet. Gleiches Konzept, gleiche Atmosphäre. Empfehlenswert.",
+        "es": "Bouillons Julien. El mismo concepto que Chartier: 'Offrir un repas digne à un prix modeste.' Asequible, clásico, y en una de las salas más bonitas de París.\n\nCuando los niños están en la ciudad sin Petra y sin mí, Julien está en su lista. La diferencia con Chartier: aquí sí que se puede reservar. Eso evita una cola afuera.\n\nEl plato favorito de los niños es también aquí: 'Pièce du boucher, frites et sauce poivre.' Bistec con patatas fritas y salsa de pimienta. Son muy consistentes con eso.\n\nEn Ámsterdam también han abierto un Bouillon. Mismo concepto, misma atmósfera. Lo recomiendo.",
+        "pt": "Bouillons Julien. O mesmo conceito que o Chartier: 'Offrir un repas digne à un prix modeste.' Acessível, clássico, e num dos salões mais bonitos de Paris.\n\nQuando as crianças estão na cidade sem nós, o Julien está na listinha delas. A diferença para o Chartier: aqui dá para reservar. Isso evita uma fila lá fora.\n\nO prato favorito das crianças é o mesmo daqui: 'Pièce du boucher, frites et sauce poivre.' Bife com batatas fritas e molho de pimenta. Elas são consistentes nisso.\n\nEm Amsterdam, também abriram um Bouillon. Mesmo conceito, mesma atmosfera. Recomendo.",
+        "it": "Bouillons Julien. Stesso concetto di Chartier: 'Offrir un repas digne à un prix modeste.' Accessibile, classico, e in una delle sale più belle di Parigi.\n\nQuando i bambini sono in città senza di noi, Julien è nella loro lista. La differenza con Chartier: qui si può prenotare. Questo evita una fila fuori.\n\nIl piatto preferito dei bambini è anche qui: 'Pièce du boucher, frites et sauce poivre.' Bistecca con patatine fritte e salsa al pepe. Sono coerenti in questo.\n\nAd Amsterdam è stato aperto anche un Bouillon. Stesso concetto, stessa atmosfera. Lo consiglio."
+      }
+    },
+    {
+      "id": "cafe-babka-zana",
+      "name": "Cafe Babka Zana",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "8 Rue du Pas de la Mule, 75003 Paris",
+      "coordinates": {
+        "lat": 48.856033,
+        "lon": 2.367002
+      },
+      "text": {
+        "nl": "Café Babka Zana. De lekkerste Babka die we ooit hebben gegeten.\n\nZe hebben allerlei exotische versies, maar de gewone Babka met kaneel is al helemaal prima. Je hoeft niet moeilijk te doen.\n\nAls we op weg terug naar Amsterdam zijn, parkeert Erik even de auto terwijl de kinderen naar binnen schieten voor een Babka voor onderweg. Vaste traditie.",
+        "fr": "Café Babka Zana. La meilleure babka que j'aie jamais goûtée.\n\nIls proposent des saveurs originales à souhait, mais la classique à la cannelle est déjà un délice. Inutile d'en chercher d'autres.\n\nQuand nous retournons à Amsterdam, Erik se gare en vitesse pendant que les enfants filent à l'intérieur pour s'offrir une babka avant de repartir. C'est devenu une habitude qu'on adore.",
+        "en": "Café Babka Zana is a must-try. Seriously, it’s the best babka we’ve ever had.\n\nThey offer some really interesting and unique flavors, but honestly, the classic cinnamon babka is already absolute perfection – no need to overthink it!\n\nIt’s become a tradition on our drives back to Amsterdam: Erik finds a parking spot while the kids race inside to grab a babka for the road. We always make a point of stopping there.",
+        "de": "Café Babka Zana. Der leckerste Babka, den wir jemals gegessen haben.\n\nSie haben alle möglichen exotischen Varianten, aber der normale Babka mit Zimt ist schon vollkommen in Ordnung. Man muss es nicht kompliziert machen.\n\nWenn wir auf dem Rückweg nach Amsterdam sind, parkt Erik kurz das Auto, während die Kinder hineinstürmen, um einen Babka für unterwegs zu holen. Feste Tradition.",
+        "es": "Café Babka Zana. La Babka más deliciosa que hemos comido jamás.\n\nTienen todo tipo de versiones exóticas, pero la Babka normal con canela ya es perfecta. No hay que complicarse.\n\nCuando volvemos a Amsterdam, Erik para el coche un momento mientras los niños entran corriendo a por una Babka para el camino. Una tradición fija.",
+        "pt": "Café Babka Zana. A Babka mais gostosa que já comemos.\n\nEles têm todo tipo de versões exóticas, mas a Babka normal com canela já é perfeita. Não precisa complicar.\n\nQuando estamos voltando para Amsterdam, o Erik estaciona o carro rapidinho enquanto as crianças correm para dentro para pegar uma Babka para a viagem. Uma tradição fixa.",
+        "it": "Café Babka Zana. La Babka più buona che abbiamo mai mangiato.\n\nHanno un sacco di versioni esotiche, ma la Babka normale alla cannella è già perfetta. Non c’è bisogno di complicarsi la vita.\n\nQuando siamo sulla via del ritorno verso Amsterdam, Erik parcheggia velocemente la macchina mentre i bambini corrono dentro per una Babka da mangiare in viaggio. Una tradizione consolidata."
+      }
+    },
+    {
+      "id": "camille",
+      "name": "Camille",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "24 Rue des Francs Bourgeois, 75003 Paris",
+      "coordinates": {
+        "lat": 48.857726,
+        "lon": 2.360735
+      },
+      "text": {
+        "nl": "Camille. Een bistro in het Marais met één groot voordeel: service continu. De keuken is open van 10:00 tot 23:30. Door de week zelfs al vanaf 8:00. Geen gesloten keuken tussen de middag en het avondeten — je kunt er gewoon terecht wanneer het jou uitkomt.\n\nAls het mooi weer is, probeer dan een tafel op straat te krijgen. De Rue de Turenne is er breed genoeg voor.\n\nOns favoriete dessert: de appelcrumble met caramelsaus.",
+        "fr": "Camille. Un bistrot dans le Marais avec un atout majeur : le service continu. La cuisine est ouverte de 10h à 23h30, et même dès 8h en semaine. Fini les contraintes d'horaires, on peut y aller quand on veut !\n\nQuand le temps le permet, j'essaie toujours de prendre une table sur la rue. La rue de Turenne est suffisamment large pour ça.\n\nNotre péché mignon ? L'apple crumble à la sauce caramel.",
+        "en": "Camille is a fantastic bistro in the Marais, and the best part is they serve food all day long. The kitchen’s open from 10am to 11:30pm, and even earlier – 8am – during the week. No frustrating gaps between lunch and dinner here; you can pop in whenever the mood strikes.\n\nIf the weather’s good, definitely try to snag a table outside. Rue de Turenne is wide enough to enjoy it.\n\nAnd don’t leave without trying their apple crumble with caramel sauce – it’s our absolute favorite!",
+        "de": "Camille. Eine Bistro im Marais mit einem großen Vorteil: Service continu. Die Küche ist von 10:00 bis 23:30 Uhr geöffnet. Unter der Woche sogar schon ab 8:00 Uhr. Keine geschlossene Küche zwischen Mittag und Abendessen – man kann einfach hingehen, wann es mir passt.\n\nWenn das Wetter schön ist, versuche ich, einen Tisch draußen zu bekommen. Die Rue de Turenne ist dafür breit genug.\n\nUnser Lieblingsdessert: die Apfelcrumble mit Karamellsauce.",
+        "es": "Camille. Un bistro en el Marais con una gran ventaja: servicio continuo. La cocina está abierta de 10:00 a 23:30. Entre semana incluso desde las 8:00. No cierran la cocina entre el mediodía y la cena — puedes ir cuando te venga bien.\n\nSi hace buen tiempo, intenta conseguir una mesa en la calle. La Rue de Turenne es lo suficientemente ancha para ello.\n\nNuestro postre favorito: el crumble de manzana con salsa de caramelo.",
+        "pt": "Camille. Um bistrô no Marais com uma grande vantagem: serviço contínuo. A cozinha está aberta das 10:00 às 23:30. Durante a semana, até mesmo a partir das 8:00. Não fecham a cozinha entre o almoço e o jantar — você pode ir quando quiser.\n\nSe estiver bom tempo, tente conseguir uma mesa na rua. A Rue de Turenne é larga o suficiente para isso.\n\nA nossa sobremesa favorita: a crumble de maçã com molho de caramelo.",
+        "it": "Camille. Un bistrot nel Marais con un grande vantaggio: servizio continuo. La cucina è aperta dalle 10:00 alle 23:30. Durante la settimana addirittura già dalle 8:00. Nessuna chiusura della cucina tra pranzo e cena — puoi andarci quando ti pare.\n\nSe fa bel tempo, prova a prendere un tavolo in strada. La Rue de Turenne è abbastanza larga per questo.\n\nIl nostro dolce preferito: l'apple crumble con salsa al caramello."
+      }
+    },
+    {
+      "id": "chez-michel",
+      "name": "Chez Michel",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "10 Rue de Belzunce, 75010 Paris",
+      "coordinates": {
+        "lat": 48.879522,
+        "lon": 2.352242
+      },
+      "text": {
+        "nl": "Chez Michel. Een Franse bistro vlakbij Gare du Nord — ideaal te combineren met de heen- of terugreis per Thalys. Ze hebben een Bib Gourmand gehad, de Michelin-onderscheiding voor uitstekend eten voor een eerlijke prijs.\n\nOns favoriete voorgerecht: Émietté de chair d'araignée de mer. Spinnenkreeft, fijngemaakt en opgemaakt. Niet iets wat je overal op de kaart ziet.",
+        "fr": "Chez Michel. Un véritable bistro parisien, tout à deux pas de la Gare du Nord – parfait pour une pause avant ou après un trajet en Thalys. Ils ont reçu un Bib Gourmand, la récompense du Guide Michelin qui salue une cuisine excellente à des prix très corrects.\n\nNotre plat préféré ? L'émietté de chair de crabe araignée. Une chair délicate, finement hachée et joliment présentée. Ce n'est pas une entrée qu'on trouve à tous les coins de rue, et c'est tant mieux !",
+        "en": "Chez Michel is a wonderful little bistro near Gare du Nord – perfect if you’re arriving or departing on the Thalys. They’ve earned a Bib Gourmand, which is Michelin’s award for fantastic food at a reasonable price.\n\nOur absolute favorite thing to start with is the Émietté de chair d'araignée de mer. It’s minced spider crab, beautifully presented, and definitely not something you find everywhere.",
+        "de": "Chez Michel. Ein französisches Bistro in der Nähe des Gare du Nord – ideal zu kombinieren mit der Hinfahrt oder Rückfahrt mit dem Thalys. Sie haben einen Bib Gourmand bekommen, die Michelin-Auszeichnung für ausgezeichnetes Essen zu einem fairen Preis.\n\nUnsere Lieblingsvorspeise: Émietté de chair d'araignée de mer. Spinnenkrebs, fein gehackt und angerichtet. Nicht etwas, das man überall auf der Speisekarte findet.",
+        "es": "Chez Michel. Un bistró francés muy cerca de Gare du Nord — ideal para combinar con el viaje de ida o vuelta en Thalys. Han recibido un Bib Gourmand, la distinción Michelin para excelente comida a un precio justo.\n\nNuestro entrante favorito: Émietté de chair d'araignée de mer. Centollo, desmenuzado y presentado con esmero. No es algo que veas en todas las cartas.",
+        "pt": "Chez Michel. Um bistrô francês bem perto da Gare du Nord — ideal para combinar com a viagem de ida ou volta de Thalys. Eles receberam um Bib Gourmand, a distinção Michelin para comida excelente a um preço justo.\n\nA nossa entrada favorita: Émietté de chair d'araignée de mer. Centola, desfiada e apresentada de forma bonita. Não é algo que se vê em todos os menus.",
+        "it": "Chez Michel. Un bistrot francese vicino a Gare du Nord — perfetto da abbinare al viaggio di andata o ritorno con il Thalys. Hanno ricevuto un Bib Gourmand, il riconoscimento Michelin per un'ottima cucina a un prezzo onesto.\n\nIl nostro antipasto preferito: Émietté de chair d'araignée de mer. Aragosta, sminuzzata e presentata in modo elegante. Non è una cosa che si trova facilmente sul menù."
+      }
+    },
+    {
+      "id": "christine-cinema-club",
+      "name": "Christine Cinema Club",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "4 Rue Christine, 75006 Paris",
+      "coordinates": {
+        "lat": 48.854495,
+        "lon": 2.340174
+      },
+      "text": {
+        "nl": "Christine Cinema Club. Als we zin hebben in een klassieker uit de jaren 70 of 80, komen we hier. Filmhuis-films en wat meer commerciële titels uit die periode, altijd in de originele taal met Franse ondertiteling.\n\nParijse bioscopen hebben vaak geen wachtruimte. Je koopt je kaartje en wacht daarna buiten in de rij totdat de zaal vrijkomt. Dat hoort erbij.",
+        "fr": "Le Christine Cinema Club, c'est notre petite adresse avec Petra quand on a envie de replonger dans les classiques des années 70 ou 80. On y trouve des films d'art et d'essai, mais aussi quelques titres plus grand public de l'époque – toujours en version originale, sous-titrés en français, bien sûr.\n\nÀ Paris, les salles de cinéma n'ont pas toujours un hall d'attente. On prend son billet et on attend dehors, au fur et à mesure, jusqu'à ce que la salle se libère. Ça fait partie du charme, finalement !",
+        "en": "Christine Cinema Club is our go-to place when Petra and I are craving a classic 70s or 80s film. They show a mix of art house favorites and slightly more mainstream titles from that era, always in the original language with French subtitles.\n\nA quick heads-up about Parisian cinemas in general: don’t expect a lobby to hang out in. You buy your ticket and then usually queue up outside until the theater’s ready for the next screening – it’s just the way things work here!",
+        "de": "Christine Cinema Club. Wenn wir Lust auf einen Klassiker aus den 70ern oder 80ern haben, kommen wir hierher. Filmhaus-Filme und etwas kommerziellere Titel aus dieser Zeit, immer in der Originalsprache mit französischer Untertitelung.\n\nPariser Kinos haben oft keine Warteschlange. Man kauft seine Karte und wartet danach draußen in der Reihe, bis der Saal frei wird. Das gehört dazu.",
+        "es": "Christine Cinema Club. Cuando Petra y yo tenemos ganas de un clásico de los años 70 u 80, venimos aquí. Películas de cine club y títulos un poco más comerciales de esa época, siempre en versión original con subtítulos en francés.\n\nLos cines de París a menudo no tienen sala de espera. Compras tu entrada y luego esperas afuera en la fila hasta que la sala esté libre. Forma parte de la experiencia.",
+        "pt": "Clube de Cinema Christine. Quando estamos com vontade de um clássico dos anos 70 ou 80, viemos aqui. Filmes de cineclube e títulos um pouco mais comerciais daquela época, sempre no idioma original com legendas em francês.\n\nOs cinemas parisienses frequentemente não têm sala de espera. Você compra seu bilhete e depois espera do lado de fora na fila até que a sala fique livre. Faz parte da experiência.",
+        "it": "Christine Cinema Club. Quando abbiamo voglia di un classico degli anni '70 o '80, veniamo qui. Film d'essai e titoli un po' più commerciali di quel periodo, sempre in lingua originale con sottotitoli in francese.\n\nLe sale cinematografiche parigine spesso non hanno una sala d'attesa. Compri il biglietto e poi aspetti fuori in fila finché la sala non si libera. Fa parte del gioco."
+      }
+    },
+    {
+      "id": "cimetiere-pere-lachaise",
+      "name": "Cimetière Père Lachaise",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "16 Rue du Repos, 75020 Paris",
+      "coordinates": {
+        "lat": 48.859784,
+        "lon": 2.39082
+      },
+      "text": {
+        "nl": "Cimetière Père Lachaise. Een begraafplaats in het noordoosten van Parijs, en tegelijk een van de mooiste plekken in de stad.\n\nHet terrein is heuvelachtig, vol bomen, en heeft een bijna parkachtige sfeer. Je kunt er rustig doorlopen zonder te weten wie er ligt — maar weet dat de namen indrukwekkend zijn. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas, en vele anderen.\n\nEen van die plekken die je misschien niet als eerste op je lijstje hebt staan, maar die je daarna niet meer vergeet.",
+        "fr": "Le cimetière du Père Lachaise. Un cimetière situé au nord-est de Paris, et pourtant l'un des plus beaux endroits de la ville.\n\nLe terrain est vallonné, verdoyant, et l'atmosphère s'apparente presque à celle d'un parc. On peut s'y perdre avec plaisir, flâner sans forcément savoir qui repose sous nos pieds… mais sachez que les noms y sont prestigieux. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas, et tant d'autres.\n\nC'est un lieu qu'on ne pense pas forcément à visiter en premier, mais qu'on n'oublie jamais une fois qu'on l'a découvert.",
+        "en": "Père Lachaise Cemetery. It’s a cemetery in the northeast of Paris, but it’s also one of the most beautiful spots in the city.\n\nThe grounds are wonderfully hilly and tree-filled, with a surprisingly park-like feel. You can wander peacefully without necessarily knowing who rests here – though you’ll recognize some incredible names. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas, to name just a few.\n\nIt’s not the first place that springs to mind when planning a trip to Paris, but it’s a place you absolutely won’t forget.",
+        "de": "Cimetière Père Lachaise. Ein Friedhof im Nordosten von Paris, und gleichzeitig einer der schönsten Orte der Stadt.\n\nDas Gelände ist hügelig, voller Bäume, und hat eine fast parkähnliche Atmosphäre. Man kann dort ruhig durchlaufen, ohne zu wissen, wer dort liegt – aber weiß, dass die Namen beeindruckend sind. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas und viele andere.\n\nEiner dieser Orte, die man vielleicht nicht als erstes auf seiner Liste hat, aber den man danach nicht mehr vergisst.",
+        "es": "Cimetière Père Lachaise. Un cementerio en el noreste de París, y a la vez uno de los lugares más bonitos de la ciudad.\n\nEl terreno es montañoso, lleno de árboles, y tiene una atmósfera casi de parque. Puedes pasear tranquilamente por él sin saber quién está enterrado allí — pero sabiendo que los nombres son impresionantes. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas, y muchos otros.\n\nUno de esos lugares que quizás no tengas en tu lista al principio, pero que luego no olvidarás.",
+        "pt": "Cimetière Père Lachaise. Um cemitério no nordeste de Paris, e ao mesmo tempo um dos lugares mais bonitos da cidade.\n\nO terreno é montanhoso, cheio de árvores, e tem uma atmosfera quase de parque. Dá para caminhar tranquilamente por lá sem saber quem está enterrado — mas sabendo que os nomes são impressionantes. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas, e muitos outros.\n\nUm daqueles lugares que talvez não esteja no topo da sua lista, mas que você não esquece depois.",
+        "it": "Cimetière Père Lachaise. Un cimitero a nord-est di Parigi, e allo stesso tempo uno dei posti più belli della città.\n\nIl terreno è collinare, pieno di alberi, e ha un'atmosfera quasi da parco. Puoi camminarci tranquillamente senza sapere chi vi riposa — ma sappi che i nomi sono impressionanti. Jim Morrison, Edith Piaf, Frédéric Chopin, Maria Callas, e molti altri.\n\nUno di quei posti che forse non hai subito in cima alla tua lista, ma che poi non dimentichi più."
+      }
+    },
+    {
+      "id": "ecoles-cinema-club",
+      "name": "Ecoles Cinema Club",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "23 Rue des Écoles, 75005 Paris",
+      "coordinates": {
+        "lat": 48.848362,
+        "lon": 2.348977
+      },
+      "text": {
+        "nl": "Ecoles Cinema Club. Als we zin hebben in een klassieker uit de jaren 70 of 80, komen we hier. Filmhuis-films en wat meer commerciële titels uit die periode, altijd in de originele taal met Franse ondertiteling.\n\nParijse bioscopen hebben vaak geen wachtruimte. Je koopt je kaartje en wacht daarna buiten in de rij totdat de zaal vrijkomt. Dat hoort erbij.",
+        "fr": "Écoles Cinema Club, c'est notre petite adresse à Petra et moi quand on a envie de replonger dans les classiques des années 70 ou 80. On y trouve des films d'auteur, mais aussi quelques titres plus grand public de l'époque, toujours projetés en version originale avec sous-titres français.\n\nLes salles parisiennes n'ont pas toujours un hall d'attente bien aménagé. On prend son billet et on attend dehors, au fur et à mesure, que la salle se libère. Ça fait partie de l'ambiance, finalement !",
+        "en": "Écoles Cinema Club is our go-to spot when Petra and I are craving a classic 70s or 80s film. They show a mix of art house favorites and slightly more mainstream titles from that era, always in the original language with French subtitles.\n\nA quick heads-up about Parisian cinemas in general: don’t expect a lobby to hang out in. You buy your ticket and then join the queue outside until they open the doors for the screening. It’s just the Parisian way!",
+        "de": "Ecoles Cinema Club. Wenn Petra und ich Lust auf einen Klassiker aus den 70ern oder 80ern haben, kommen wir hierher. Filme aus dem Filmhaus und etwas kommerziellere Titel aus dieser Zeit, immer in der Originalsprache mit französischer Untertitelung.\n\nPariser Kinos haben oft keine Warteschlange innen. Man kauft seine Karte und wartet danach draußen in der Schlange, bis der Saal frei wird. Das gehört einfach dazu.",
+        "es": "Ecoles Cinema Club. Cuando Petra y yo tenemos ganas de un clásico de los años 70 u 80, venimos aquí. Películas de cineclub y títulos un poco más comerciales de esa época, siempre en versión original con subtítulos en francés.\n\nLos cines de París a menudo no tienen sala de espera. Compras tu entrada y luego esperas afuera en la fila hasta que la sala esté libre. Es parte de la experiencia.",
+        "pt": "Ecoles Cinema Club. Quando eu e a Petra temos vontade de ver um clássico dos anos 70 ou 80, é para cá que viemos. Filmes de Filmhuis e títulos um pouco mais comerciais dessa época, sempre na língua original com legendas em francês.\n\nOs cinemas parisienses frequentemente não têm sala de espera. A gente compra o ingresso e depois espera do lado de fora na fila até a sala ficar livre. Faz parte.",
+        "it": "Ecoles Cinema Club. Quando abbiamo voglia di un classico degli anni '70 o '80, veniamo qui. Film d'essai e titoli un po' più commerciali di quel periodo, sempre in lingua originale con sottotitoli in francese.\n\nLe sale cinematografiche parigine spesso non hanno una sala d'attesa. Compri il biglietto e poi aspetti fuori in fila finché la sala non si libera. Fa parte del gioco."
+      }
+    },
+    {
+      "id": "engelstalige-standup-comedy-au-chat-noir",
+      "name": "English Standup Comedy Au Chat Noir",
+      "section": "map",
+      "categories": [
+        "culture",
+        "restaurants-bars"
+      ],
+      "address": "76 Rue Jean-Pierre Timbaud, 75011 Paris",
+      "coordinates": {
+        "lat": 48.867285,
+        "lon": 2.37595
+      },
+      "text": {
+        "nl": "Engelstalige standup comedy in het Au Chat Noir. Dit vinden we alle vier heel leuk — ook de kinderen zijn er altijd voor in.\n\nDe opzet is elke keer hetzelfde. Een MC opent de avond, en daarna doen vijf comedians elk een set van tien minuten. Engelstalig en heel divers: comedians uit de VS, India, en ook uit Frankrijk zelf.\n\nDrankjes zijn betaalbaar en mogen mee de zaal in. Er zijn twee voorstellingen: om 19:00 en om 20:30. De zaal gaat een halfuur van tevoren open.\n\nReserveren doe je via Eventbrite. De reservering zelf is gratis. Aan de deur betaal je wat je kunt missen — gebruikelijk is 15 euro per persoon. Zowel cash als pin.\n\nNog één ding: het toilet is wat bijzonder. Zo bijzonder dat de comedians het soms in hun set noemen. Regel dat dus liever elders.",
+        "fr": "Au Chat Noir, c'est devenu notre petite routine : du stand-up en anglais, et on adore ! Nous quatre, on y va régulièrement – même les enfants sont toujours enthousiastes.\n\nLe principe est simple : un MC lance la soirée, puis cinq humoristes se relaient avec des sets d'une dizaine de minutes chacun. C'est super varié, avec des artistes venus des États-Unis, d'Inde, et même de France.\n\nLes boissons sont à des prix raisonnables et on peut les apporter dans la salle. Il y a deux séances : à 19h et à 20h30, et la salle ouvre ses portes une demi-heure avant.\n\nOn réserve sur Eventbrite, et la réservation est gratuite. On règle ensuite sur place, selon ses moyens – généralement autour de 15 euros par personne, en espèces ou par carte.\n\nDernière chose : les toilettes… disons qu'elles ont du caractère ! Tellement qu'il arrive aux humoristes d'en faire des blagues. Prévoyez peut-être de chercher une alternative si possible.",
+        "en": "If you’re looking for a fun night out in Paris, check out the English-language standup at Au Chat Noir. We absolutely love it – and surprisingly, the kids do too!\n\nThe format’s always the same: an MC kicks things off, followed by five comedians each doing about ten minutes. It’s a really diverse lineup, with performers from the US, India, and even France itself. \n\nDrinks are reasonably priced, and you can take them into the venue with you. There are two shows each night, at 7:00 PM and 8:30 PM, with doors opening at 6:30 PM.\n\nYou can reserve your spot through Eventbrite – the reservation is free. They ask for a donation at the door, whatever you feel you can afford; €15 per person is a good average. They take both cash and card.\n\nOne last tip: the bathroom is…unique. So unique, in fact, that the comedians sometimes joke about it! You might want to plan accordingly.",
+        "de": "Englischsprachige Stand-up-Comedy im Au Chat Noir. Das finden wir alle vier total super – auch die Kinder sind immer gerne dabei.\n\nDer Aufbau ist jedes Mal gleich. Ein MC eröffnet den Abend, und danach treten fünf Comedians jeweils mit einem Set von zehn Minuten auf. Englischsprachig und sehr vielfältig: Comedians aus den USA, Indien und auch aus Frankreich selbst.\n\nGetränke sind erschwinglich und dürfen mit in den Saal genommen werden. Es gibt zwei Vorstellungen: um 19:00 und um 20:30. Der Saal öffnet ein halbes Stunde vorher.\n\nReservieren kannst du über Eventbrite. Die Reservierung selbst ist kostenlos. An der Tür zahlst du, was du entbehren kannst – üblich sind 15 Euro pro Person. Sowohl bar als auch mit Karte.\n\nNoch eine Sache: die Toilette ist etwas speziell. So speziell, dass die Comedians sie manchmal in ihrem Set erwähnen. Regel das lieber anderswo.",
+        "es": "Comedia en inglés de pie en Au Chat Noir. A los cuatro nos encanta — incluso los niños siempre están ahí para ello.\n\nLa organización es siempre la misma. Un maestro de ceremonias abre la noche, y luego cinco comediantes hacen cada uno un set de diez minutos. En inglés y muy diverso: comediantes de los EE. UU., India, y también de Francia mismo.\n\nLas bebidas son asequibles y se pueden llevar al salón. Hay dos funciones: a las 19:00 y a las 20:30. El salón abre media hora antes.\n\nReservas las haces a través de Eventbrite. La reserva en sí es gratuita. En la puerta pagas lo que puedas — lo habitual son 15 euros por persona. Tanto en efectivo como con tarjeta.\n\nUna cosa más: el baño es un poco especial. Tan especial que los comediantes a veces lo mencionan en su set. Mejor reglarlo en otro lugar.",
+        "pt": "Comédia stand-up em inglês no Au Chat Noir. Nós quatro gostamos muito disso — até as crianças estão sempre a bordo.\n\nA estrutura é sempre a mesma. Um MC abre a noite, e depois cinco comediantes fazem cada um um set de dez minutos. Em inglês e bem variado: comediantes dos EUA, da Índia e também da própria França.\n\nAs bebidas são acessíveis e podem ser levadas para o salão. Há duas sessões: às 19:00 e às 20:30. O salão abre meia hora antes.\n\nA reserva é feita através do Eventbrite. A reserva em si é gratuita. Paga o que puder na porta — o usual é 15 euros por pessoa. Tanto em dinheiro como com cartão.\n\nMais uma coisa: o banheiro é um pouco peculiar. Tão peculiar que os comediantes às vezes o mencionam em seus sets. É melhor resolver isso em outro lugar.",
+        "it": "Commedia stand-up in inglese all'Au Chat Noir. Ci piace un sacco a tutti e quattro — anche i bambini ci sono sempre per.\n\nLa formula è sempre la stessa. Un MC apre la serata, e poi cinque comici fanno ognuno un set di dieci minuti. In inglese e molto vario: comici dagli Stati Uniti, dall'India, e anche dalla Francia stessa.\n\nLe bevande sono a prezzi accessibili e puoi portarle in sala. Ci sono due spettacoli: alle 19:00 e alle 20:30. La sala apre mezz'ora prima.\n\nPrenoti tramite Eventbrite. La prenotazione stessa è gratuita. Alla porta paghi quello che puoi — di solito sono 15 euro a persona. Sia in contanti che con la carta.\n\nUn'ultima cosa: il bagno è un po' particolare. Talmente particolare che i comici a volte lo menzionano nei loro spettacoli. Meglio sbrigarsela altrove."
+      }
+    },
+    {
+      "id": "english-standup-coucou-comedy",
+      "name": "English Standup CouCou Comedy",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "1, Rue Laplace",
+      "coordinates": {
+        "lat": 48.847198,
+        "lon": 2.347995
+      },
+      "text": {
+        "nl": "Je kunt bijna elke avond naar Engelse standup in Parijs. Hier kun je vrijdags terecht. Deze plek is op linkerover. Dus prima te combineren met een maaltijd bij Saigon d'Antan. Bij Au Chat Noir is de bar boven en het podium in de kelder, hier zitten bar en podium naast elkaar. Formule is 10 minuten MC en dan 5 comedians die ieder een set van 10 minuten doen. Je betaalt bij de uitgang, 15 Euro per persoon is gebruikelijk.",
+        "fr": "Presque tous les soirs, on peut assister à des spectacles de stand-up en anglais à Paris. Si vous cherchez une option le vendredi, je vous recommande CouCou Comedy, qui se trouve sur la rive gauche. C'est l'endroit idéal pour enchaîner avec un dîner chez Saigon d'Antan ! Au Chat Noir, le bar est à l'étage et la salle de spectacle en sous-sol, mais l'ambiance est chaleureuse car les deux sont très proches. La formule est simple : un animateur pour démarrer, puis cinq humoristes qui se relaient avec des sets d'environ dix minutes chacun. Comptez 15€ à l'entrée, c'est le prix habituel.",
+        "en": "You can catch English-language stand-up in Paris almost any night of the week. This particular show happens on Fridays, on the Left Bank, making it easy to pair with dinner at Saigon d'Antan. Unlike some venues where the bar and stage are separate, here they’re right next to each other at Au Chat Noir – the bar’s upstairs and the stage is downstairs. The show typically starts with a 10-minute MC, followed by five comedians each doing 10-minute sets. Tickets are €15 at the door.",
+        "de": "Man kann fast jeden Abend englischen Stand-up in Paris sehen. Hier kann man freitags hingehen. Dieser Ort liegt auf der linken Seite. Also lässt er sich gut mit einem Essen bei Saigon d'Antan kombinieren. Bei Au Chat Noir ist die Bar oben und die Bühne im Keller, hier sind Bar und Bühne nebeneinander. Das Format ist 10 Minuten MC und dann 5 Comedians, die jeweils einen Set von 10 Minuten spielen. Man bezahlt am Eingang, 15 Euro pro Person sind üblich.",
+        "es": "Casi todas las noches puedes ir a ver comedia en inglés en París. Aquí puedes ir los viernes. Este lugar está en el lado izquierdo. Así que es fácil combinarlo con una comida en Saigon d'Antan. En Au Chat Noir el bar está arriba y el escenario en el sótano, aquí el bar y el escenario están uno al lado del otro. La fórmula es 10 minutos de MC y luego 5 comediantes que cada uno hacen un set de 10 minutos. Pagas en la entrada, 15 Euros por persona es lo habitual.",
+        "pt": "Quase todas as noites dá para ir a um show de stand-up em inglês em Paris. Aqui é onde posso ir às sextas-feiras. O local fica no lado esquerdo. Então dá para combinar bem com uma refeição no Saigon d'Antan. No Au Chat Noir o bar é em cima e o palco está no porão, aqui o bar e o palco ficam lado a lado. A fórmula é 10 minutos de MC e depois 5 comediantes que cada um faz um set de 10 minutos. Pagamos na entrada, 15 Euros por pessoa é o normal.",
+        "it": "Quasi ogni sera puoi andare a vedere stand-up comedy in inglese a Parigi. Qui puoi andare il venerdì. Questo posto è sulla Rive Gauche. Quindi si combina bene con una cena da Saigon d'Antan. Da Au Chat Noir il bar è al piano superiore e il palco è in cantina, qui bar e palco sono uno accanto all'altro. La formula è 10 minuti di MC e poi 5 comici che fanno ognuno un set di 10 minuti. Paghi all'ingresso, 15 Euro a persona è la norma."
+      }
+    },
+    {
+      "id": "faubourg-daimant",
+      "name": "Faubourg Daimant",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "20 Rue du Faubourg Poissonnière, 75010 Paris",
+      "coordinates": {
+        "lat": 48.872395,
+        "lon": 2.347955
+      },
+      "text": {
+        "nl": "Faubourg Daimant. We zijn geen vegans, maar eten wel regelmatig vegan. Dit is het eerste goede vegan restaurant dat we in Parijs hebben gevonden.\n\nPetra's favoriete gerechten: de guacamole de broccoli en de carottes fanes.",
+        "fr": "Faubourg Daimant. On n'est pas végan à 100%, mais on mange plutôt souvent des plats végétaliens. C'est le premier vraiment bon resto végan qu'on ait découvert à Paris.\n\nLes coups de cœur de Petra ? La guacamole de brocoli et les carottes à la fanes, sans hésiter.",
+        "en": "Faubourg Daimant is a real find! We’re not strictly vegan, but we do enjoy plant-based meals quite a bit, and this is the first truly excellent vegan restaurant we’ve stumbled upon in Paris.\n\nPetra’s absolute favorites are the broccoli guacamole and the carrot top dish – seriously good!",
+        "de": "Faubourg Daimant. Wir sind keine Veganer, aber essen regelmäßig vegan. Das ist das erste gute vegane Restaurant, das wir in Paris gefunden haben.\n\nPetras Lieblingsgerichte: die Guacamole de Broccoli und die Carottes fanes.",
+        "es": "Faubourg Daimant. No somos veganos, pero sí comemos vegano regularmente. Este es el primer buen restaurante vegano que hemos encontrado en París.\n\nLos platos favoritos de Petra: la guacamole de brócoli y las carottes fanes.",
+        "pt": "Faubourg Daimant. Nós não somos veganos, mas comemos vegano regularmente. Este é o primeiro bom restaurante vegano que encontramos em Paris.\n\nOs pratos favoritos da Petra: a guacamole de brócolis e as carottes fanes.",
+        "it": "Faubourg Daimant. Non siamo vegani, ma mangiamo regolarmente vegano. Questo è il primo buon ristorante vegano che abbiamo trovato a Parigi.\n\nI piatti preferiti di Petra: la guacamole de broccoli e le carottes fanes."
+      }
+    },
+    {
+      "id": "flash-invaders-app",
+      "name": "Flash Invaders app",
+      "section": "tours",
+      "categories": [
+        "tours-transportation"
+      ],
+      "text": {
+        "nl": "Flash Invaders. De Franse straatkunstenaar Invader plaatst al sinds de jaren negentig mozaïekkunstwerken op gevels over de hele wereld. Ze zijn geïnspireerd op het Space Invaders-spel — kleine pixels, grote aanwezigheid als je ze eenmaal ziet.\n\nIn Parijs hangen meer dan 1.500 van zijn werken. Download de Flash Invaders app, kom je er een tegen, maak een foto in de app, en je krijgt punten. In Parijs alleen al kun je meer dan 40.000 punten verzamelen.\n\nHet bijeffect: je gaat anders door de straten lopen. Omhoog kijken in plaats van voor je uit.",
+        "fr": "Flash Invaders. Depuis les années 90, l'artiste français de street art Invader dissémine ses créations en mosaïque sur les façades des villes du monde entier. Inspirées du jeu Space Invaders, ses œuvres se distinguent par leurs petits pixels et leur impact visuel une fois repérées.\n\nÀ Paris, on en compte plus de 1 500 ! Télécharge l'application Flash Invaders : si tu en repères une, prends-la en photo via l'appli et gagne des points. Rien qu'à Paris, tu peux cumuler plus de 40 000 points.\n\nEt l'effet bonus, c'est que tu commences à explorer la ville d'une toute autre manière. Tu lèves les yeux, tu observes, au lieu de simplement avancer.",
+        "en": "Flash Invaders. Since the nineties, French street artist Invader has been installing mosaic artworks on buildings around the globe – inspired by the classic Space Invaders game. They’re small, pixelated, but once you spot one, they really stand out.\n\nParis is home to over 1,500 of his pieces, and there’s a fun app to find them! Download Flash Invaders, photograph a work when you find it, and earn points. You can rack up over 40,000 points just in Paris.\n\nBut the real reward? You start seeing the city in a whole new way – looking up, paying attention, and discovering hidden gems you’d normally miss.",
+        "de": "Flash Invaders. Der französische Streetart-Künstler Invader platziert seit den Neunzigern Mosaikkunstwerke an Fassaden auf der ganzen Welt. Sie sind inspiriert vom Space Invaders-Spiel – kleine Pixel, große Präsenz, wenn man sie einmal gesehen hat.\n\nIn Paris hängen über 1.500 seiner Werke. Lade dir die Flash Invaders App herunter, wenn du einen entdeckst, mach ein Foto in der App, und du bekommst Punkte. Allein in Paris kannst du über 40.000 Punkte sammeln.\n\nDer Nebeneffekt: man geht anders durch die Straßen. Nach oben schauen, statt nur geradeaus.",
+        "es": "Flash Invaders. El artista francés de arte callejero Invader lleva colocando obras de arte en mosaico en fachadas de todo el mundo desde los años noventa. Están inspiradas en el juego Space Invaders — pequeños píxeles, gran presencia una vez que los ves.\n\nEn París hay más de 1.500 de sus obras. Descarga la app Flash Invaders, si te encuentras con uno, haz una foto en la app, y obtienes puntos. Solo en París puedes acumular más de 40.000 puntos.\n\nEl efecto secundario: empiezas a caminar por las calles de otra manera. Mirar hacia arriba en lugar de hacia adelante.",
+        "pt": "Flash Invaders. O artista de rua francês Invader coloca obras de arte em mosaico em fachadas por todo o mundo desde os anos noventa. São inspiradas no jogo Space Invaders – pequenos pixels, grande presença quando uma vez os vês.\n\nEm Paris, existem mais de 1.500 das suas obras. Descarrega a app Flash Invaders, se encontrares uma, tira uma foto na app, e ganhas pontos. Só em Paris podes recolher mais de 40.000 pontos.\n\nO efeito secundário: começas a percorrer as ruas de outra forma. Olhar para cima em vez de para a frente.",
+        "it": "Flash Invaders. L'artista di strada francese Invader posiziona opere d'arte a mosaico sulle facciate in tutto il mondo dagli anni '90. Sono ispirate al gioco Space Invaders – piccoli pixel, grande presenza una volta che li vedi.\n\nA Parigi ci sono più di 1.500 delle sue opere. Scarica l'app Flash Invaders, ne trovi uno, fai una foto nell'app e ottieni punti. Solo a Parigi puoi raccogliere più di 40.000 punti.\n\nL'effetto collaterale: inizi a camminare per le strade in modo diverso. Guardi in alto invece di guardare avanti."
+      }
+    },
+    {
+      "id": "fondation-louis-vuitton",
+      "name": "Fondation Louis Vuitton",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "8 Avenue du Mahatma Gandhi, 75016 Paris",
+      "coordinates": {
+        "lat": 48.87665,
+        "lon": 2.263338
+      },
+      "text": {
+        "nl": "Fondation Louis Vuitton. Het museum ligt aan de rand van Parijs, bij het Bois de Boulogne. Een halfuur fietsen op een Vélib, of je neemt de shuttlebus vanaf de Arc de Triomphe.\n\nHet gebouw is al een reden om te gaan. Wat er binnen hangt, is dat ook. Ze slagen er regelmatig in om groot werk en grote collecties naar Parijs te halen — tentoonstellingen die je elders niet zomaar ziet.",
+        "fr": "La Fondation Louis Vuitton est un incontournable. Elle se situe aux portes de Paris, tout près du Bois de Boulogne. Comptez une bonne demi-heure à vélo depuis le centre, en Vélib par exemple, ou alors prenez la navette qui part de l'Arc de Triomphe.\n\nMais le bâtiment lui-même vaut le déplacement. Et les expositions qu'ils proposent sont toujours à la hauteur. Ils parviennent régulièrement à attirer des œuvres et des collections exceptionnelles à Paris – des expositions qu’on ne voit pas tous les jours.",
+        "en": "Fondation Louis Vuitton is a must-see. It’s located just outside central Paris, near the Bois de Boulogne, and easily reachable – either a lovely half-hour bike ride on a Vélib, or a quick shuttle bus from the Arc de Triomphe.\n\nBut honestly, the building alone is worth the trip. And the art inside doesn’t disappoint. They consistently host incredible exhibitions and collections you won’t find anywhere else in Paris.",
+        "de": "Fondation Louis Vuitton. Das Museum liegt am Rande von Paris, beim Bois de Boulogne. Eine halbe Stunde mit dem Fahrrad auf einem Vélib, oder du nimmst den Shuttlebus vom Arc de Triomphe.\n\nDas Gebäude ist schon ein Grund, hinzugehen. Was darin hängt, auch. Sie schaffen es regelmäßig, großartige Werke und große Sammlungen nach Paris zu holen – Ausstellungen, die man woanders nicht so einfach sieht.",
+        "es": "Fondation Louis Vuitton. El museo está a las afueras de París, cerca del Bois de Boulogne. Media hora en bicicleta en una Vélib, o tomas el autobús lanzadera desde el Arc de Triomphe.\n\nEl edificio ya es una razón para ir. Lo que cuelga dentro, también lo es. Regularmente logran traer grandes obras y grandes colecciones a París — exposiciones que no ves fácilmente en otros lugares.",
+        "pt": "Fundação Louis Vuitton. O museu fica nos arredores de Paris, perto do Bois de Boulogne. Uma meia hora de bicicleta numa Vélib, ou pegas o autocarro de ligação a partir do Arc de Triomphe.\n\nO edifício já é uma razão para ir. O que está exposto lá dentro também. Conseguem regularmente trazer grandes obras e grandes coleções para Paris — exposições que não se vêem facilmente noutros sítios.",
+        "it": "Fondation Louis Vuitton. Il museo si trova alla periferia di Parigi, vicino al Bois de Boulogne. Ci vuole mezz'ora in bici con una Vélib, oppure prendi la navetta dall'Arc de Triomphe.\n\nL'edificio è già un motivo per andare. Anche quello che c'è dentro, ovviamente. Riescono regolarmente a portare a Parigi opere e collezioni importanti — mostre che non vedi facilmente da altre parti."
+      }
+    },
+    {
+      "id": "jardin-du-luxembourg",
+      "name": "Jardin du Luxembourg",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "address": "Rue Médicis, 75006 Paris",
+      "coordinates": {
+        "lat": 48.848284,
+        "lon": 2.339545
+      },
+      "text": {
+        "nl": "Jardin du Luxembourg. Een groot park op de linkeroever, een wereld op zichzelf.\n\nDoor het hele park staan groene metalen stoelen. Gewone stoelen, maar ook stoelen met een leuning die heerlijk achterover kan in een bijna-ligstand. Je mag er gewoon op zitten, gratis.\n\nWij zoeken er een rustig plekje op, trekken zo'n stoel in de zon en zitten er met een boekje, een drankje en een sandwich. Een van de eenvoudigste maar beste manieren om een Parijse middag door te brengen.",
+        "fr": "Le Jardin du Luxembourg. Un vaste parc sur la rive gauche, un véritable havre de paix.\n\nPartout dans le jardin, on trouve ces célèbres chaises en métal vert. Des chaises simples, mais aussi des modèles avec un dossier inclinable, incroyablement confortables, presque pour s'allonger. Et le meilleur ? On peut s'y installer gratuitement.\n\nPetra et moi, on aime chercher un coin tranquille, tirer une de ces chaises au soleil et s'y prélasser avec un livre, une boisson et un sandwich. C'est l'une des façons les plus simples – et les plus agréables – de passer un après-midi à Paris.",
+        "en": "Jardin du Luxembourg is a sprawling park on the Left Bank, a little world of its own.\n\nScattered throughout are these lovely green metal chairs – simple ones, but also some with high backs that recline almost flat. And the best part? You can just sit on them, no charge.\n\nPetra and I found a quiet corner, pulled up a couple of chairs to soak up the sun, and spent the afternoon with a book, a drink, and a sandwich. It’s one of the simplest, and most perfect, ways to enjoy a Parisian afternoon.",
+        "de": "Jardin du Luxembourg. Ein großer Park am linken Ufer, eine Welt für sich.\n\nIm ganzen Park stehen grüne Metallstühle. Normale Stühle, aber auch Stühle mit einer Lehne, die man wunderbar zurücklehnen kann, fast liegend. Man darf sich einfach draufsetzen, kostenlos.\n\nPetra und ich suchen uns einen ruhigen Platz, ziehen uns so einen Stuhl in die Sonne und sitzen da mit einem Buch, einem Getränk und einem Sandwich. Eine der einfachsten, aber besten Arten, einen Pariser Nachmittag zu verbringen.",
+        "es": "Jardin du Luxembourg. Un parque grande en la orilla izquierda, un mundo en sí mismo.\n\nPor todo el parque hay sillas de metal verdes. Sillas normales, pero también sillas con un respaldo que se reclina deliciosamente en una posición casi acostada. Simplemente puedes sentarte en ellas, gratis.\n\nPetra y yo buscamos un lugar tranquilo, cogemos una de esas sillas al sol y nos sentamos con un libro, una bebida y un sándwich. Una de las maneras más simples pero mejores de pasar una tarde parisina.",
+        "pt": "Jardin du Luxembourg. Um parque grande na margem esquerda, um mundo à parte.\n\nPor todo o parque, há cadeiras de metal verde. Cadeiras normais, mas também cadeiras com um encosto que inclina deliciosamente para quase uma posição deitada. Pode simplesmente sentar-se nelas, gratuitamente.\n\nNós procuramos um lugar tranquilo ali, pegamos uma dessas cadeiras ao sol e sentamos com um livro, uma bebida e um sanduíche. Uma das maneiras mais simples, mas melhores, de passar uma tarde em Paris.",
+        "it": "Jardin du Luxembourg. Un grande parco sulla riva sinistra, un mondo a sé.\n\nIn tutto il parco ci sono sedie verdi in metallo. Sedie normali, ma anche sedie con uno schienale che si inclina all'indietro in una posizione quasi sdraiata. Puoi semplicemente sederti, gratuitamente.\n\nIo e Petra cerchiamo un posticino tranquillo, prendiamo una di queste sedie al sole e ci sediamo con un libretto, una bevanda e un panino. Uno dei modi più semplici ma migliori per trascorrere un pomeriggio parigino."
+      }
+    },
+    {
+      "id": "la-duree",
+      "name": "La Duree",
+      "section": "map",
+      "categories": [
+        "shops"
+      ],
+      "address": "16 Rue Royale, 75008 Paris",
+      "coordinates": {
+        "lat": 48.868427,
+        "lon": 2.323614
+      },
+      "text": {
+        "nl": "Ladurée. Het adres voor een warme, volle chocolademelk. Niet de goedkoopste plek, maar de chocolademelk hier is echt goed — dik, warm, en niet te zoet. Ze hebben vestigingen door heel Parijs. De vestiging aan de Rue Royale is de iconische.",
+        "fr": "Ladurée. L'adresse incontournable pour un chocolat chaud riche et velouté. Ce n'est pas la plus économique, certes, mais le chocolat chaud y est véritablement exceptionnel : épais, brûlant, et juste ce qu'il faut de sucre. Ladurée a de nombreuses boutiques à Paris, mais celle de la rue Royale reste la plus emblématique.",
+        "en": "Ladurée is *the* place to go for a truly decadent hot chocolate. It’s a bit of a splurge, but honestly, it’s worth it – the hot chocolate is incredibly rich and smooth, and perfectly balanced, not overly sweet. You’ll find Ladurée locations all over Paris, but the one on Rue Royale is the most famous and iconic.",
+        "de": "Ladurée. Die Adresse für eine warme, vollmundige Schokoladenmilch. Nicht der günstigste Ort, aber die Schokoladenmilch hier ist wirklich gut – dick, warm und nicht zu süß. Sie haben Filialen in ganz Paris. Die Filiale in der Rue Royale ist die ikonische.",
+        "es": "Ladurée. El lugar ideal para un chocolate caliente, cremoso y con cuerpo. No es el sitio más barato, pero el chocolate caliente de aquí es realmente bueno — espeso, caliente y no demasiado dulce. Tienen locales por todo París. El local de la Rue Royale es el más emblemático.",
+        "pt": "Ladurée. O endereço para um chocolate quente cremoso e encorpado. Não é o lugar mais barato, mas o chocolate quente aqui é realmente bom — espesso, quente e não muito doce. Eles têm filiais por toda a Paris. A filial na Rue Royale é a icônica.",
+        "it": "Ladurée. Il posto giusto per un cioccolato caldo denso e corposo. Non è il locale più economico, ma il cioccolato caldo qui è davvero buono — denso, caldo e non troppo dolce. Hanno filiali in tutta Parigi. La sede in Rue Royale è quella iconica."
+      }
+    },
+    {
+      "id": "le-baron-rouge",
+      "name": "Le Baron Rouge",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "1 Rue Théophile Roussel, 75012 Paris",
+      "coordinates": {
+        "lat": 48.84944,
+        "lon": 2.377442
+      },
+      "text": {
+        "nl": "Le Baron Rouge. Een wijnbar in het 12e arrondissement, vlak bij de Marché d'Aligre. De combinatie van die twee is een ochtend op zichzelf.\n\nBinnen bestel je een plateau met kaas of charcuterie. Buiten staat een oesterbar. En dan staat iedereen gewoon op straat — met een glas wijn in de hand en een oester erbij. Zo hoort het.\n\nZe verkopen ook wijn uit het vat, voor een prijs die je niet gewend bent te betalen voor iets wat zo goed smaakt.",
+        "fr": "Le Baron Rouge. Un bar à vin du 12e, juste à côté du marché d'Aligre. D'ailleurs, combiner les deux, c'est une matinée parfaite.\n\nÀ l'intérieur, on se fait plaisir avec une assiette de fromages ou de charcuterie. Dehors, il y a un comptoir à huîtres. Et puis, tout le monde déborde sur la rue – un verre de vin à la main, une huître à portée de main. C'est ça l'ambiance idéale.\n\nEn plus, ils proposent du vin au fût à des prix imbattables, surtout pour une qualité pareille.",
+        "en": "Le Baron Rouge is a wine bar in the 12th arrondissement, just steps from the vibrant Marché d'Aligre market – the two together make for a perfect morning.\n\nInside, you can get cheese or charcuterie plates, but the real action is outside at the oyster bar. Everyone spills out onto the street with a glass of wine and a fresh oyster in hand. It’s exactly the kind of Parisian experience you hope for.\n\nThey also sell wine straight from the barrel at prices that will pleasantly surprise you, especially considering how good it is.",
+        "de": "Le Baron Rouge. Eine Weinbar im 12. Arrondissement, ganz in der Nähe der Marché d'Aligre. Die Kombination aus beidem ist schon ein Morgen für sich.\n\nDrinnen bestellt man ein Plateau mit Käse oder Charcuterie. Draußen gibt es eine Austernbar. Und dann steht einfach jeder auf der Straße – mit einem Glas Wein in der Hand und einer Auster dazu. So soll es sein.\n\nSie verkaufen dort auch Wein aus dem Fass, zu einem Preis, den man normalerweise nicht für etwas so Gutes bezahlt.",
+        "es": "Le Baron Rouge. Un bar de vinos en el 12e arrondissement, justo cerca de la Marché d'Aligre. La combinación de los dos es una mañana en sí misma.\n\nAdentro pides una tabla con queso o charcutería. Afuera hay una barra de ostras. Y entonces todo el mundo está simplemente en la calle — con una copa de vino en la mano y una ostra para acompañar. Así es como debe ser.\n\nTambién venden vino a granel, a un precio al que no estás acostumbrado a pagar por algo que sabe tan bien.",
+        "pt": "Le Baron Rouge. Um bar de vinhos no 12ème arrondissement, bem perto da Marché d'Aligre. A combinação dos dois é uma manhã por si só.\n\nLá dentro, você pede uma travessa com queijo ou charcutaria. Lá fora, tem uma barra de ostras. E aí todo mundo simplesmente fica na rua — com um copo de vinho na mão e uma ostra para acompanhar. É assim que deve ser.\n\nEles também vendem vinho a granel, por um preço que a gente não está acostumado a pagar por algo que tem um sabor tão bom.",
+        "it": "Le Baron Rouge. Un wine bar nel 12° arrondissement, proprio vicino alla Marché d'Aligre. La combinazione di questi due è una mattinata a sé.\n\nDentro ordini un piatto con formaggi o salumi. Fuori c'è un banco ostriche. E poi la gente sta semplicemente in strada — con un bicchiere di vino in mano e un'ostrica da accompagnare. Così deve essere.\n\nVendono anche vino alla spina, a un prezzo a cui non sei abituato a pagare per qualcosa che sa così bene."
+      }
+    },
+    {
+      "id": "le-bon-marche-theatre",
+      "name": "Le Bon Marche Theatre",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "24 Rue de Sèvres, 75007 Paris",
+      "coordinates": {
+        "lat": 48.850469,
+        "lon": 2.324422
+      },
+      "text": {
+        "nl": "Le Bon Marché Theatre. In dit warenhuis verandert na sluitingstijd de begane grond in een theaterzaal.\n\nEen combinatie van acrobatiek, muziek en ingenieuze decors — midden tussen de rekken. Het is een grappig en bijzonder fenomeen. Geen goedkope voorstellingen, maar de moeite zeker waard.\n\nPraktisch: op de begane grond heb je het beste zicht. Op de eerste verdieping kan dat tegenvallen.",
+        "fr": "Le Bon Marché Rive Gauche, c'est bien plus qu'un grand magasin ! Après la fermeture, le rez-de-chaussée se métamorphose en une véritable salle de spectacle.\n\nImaginez : un mélange d'acrobaties, de musique et de décors inventifs, le tout au cœur des rayons… C'est une expérience à la fois ludique et singulière. Les places ne sont pas données, certes, mais le spectacle en vaut vraiment la peine.\n\nUn conseil pratique : pour une vue optimale, installez-vous au rez-de-chaussée. L'étage est souvent moins intéressant.",
+        "en": "Le Bon Marché Theatre is a truly unique experience. After the department store closes for the day, the ground floor is magically transformed into a theatre!\n\nImagine a blend of acrobatics, live music, and incredibly clever sets – all performed right amongst the shop displays. It’s a fun and special event, and while the tickets aren’t inexpensive, it’s absolutely worth the splurge.\n\nA little tip: you’ll get the best view if you’re on the ground floor. The view from the first floor isn’t quite as good, so I’d recommend aiming to be down below.",
+        "de": "Le Bon Marché Theatre. In diesem Kaufhaus verwandelt sich nach Ladenschluss das Erdgeschoss in einen Theatersaal.\n\nEine Kombination aus Akrobatik, Musik und genialen Kulissen – mitten zwischen den Regalen. Es ist ein witziges und besonderes Phänomen. Keine billigen Vorstellungen, aber die Mühe lohnt sich definitiv.\n\nPraktisch: Im Erdgeschoss hat man die beste Sicht. In der ersten Etage kann das enttäuschen.",
+        "es": "Le Bon Marché Theatre. En este almacén, después del horario de cierre, la planta baja se transforma en un teatro.\n\nUna combinación de acrobacias, música y decorados ingeniosos — en medio de los estantes. Es un fenómeno divertido y especial. No son espectáculos baratos, pero definitivamente vale la pena.\n\nPráctico: en la planta baja tienes la mejor vista. En el primer piso, podría ser decepcionante.",
+        "pt": "Le Bon Marché Theatre. Nesse grande loja, o rés-do-chão transforma-se num teatro depois do horário de funcionamento.\n\nUma combinação de acrobacias, música e cenários engenhosos – no meio das prateleiras. É um fenómeno engraçado e especial. Não são espetáculos baratos, mas vale mesmo a pena.\n\nPrático: no rés-do-chão tens a melhor visibilidade. No primeiro andar pode ser dececionante.",
+        "it": "Le Bon Marché Theatre. In questo grande magazzino, dopo la chiusura, il piano terra si trasforma in una sala teatrale.\n\nUna combinazione di acrobazie, musica e scenografie ingegnose — proprio in mezzo ai reparti. È un fenomeno divertente e particolare. Non sono spettacoli economici, ma ne vale decisamente la pena.\n\nPraticamente: al piano terra hai la visuale migliore. Al primo piano potrebbe deluderti."
+      }
+    },
+    {
+      "id": "le-grand-rex",
+      "name": "Le Grand Rex",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "1 Boulevard Poissonnière, 75002 Paris",
+      "coordinates": {
+        "lat": 48.870553,
+        "lon": 2.34775
+      },
+      "text": {
+        "nl": "Le Grand Rex. Een bioscoop die een tijdperk ademt.\n\nProbeer een kaartje te regelen voor la Grande Salle. Het is een zaal die eruitziet alsof je in een openluchtbioscoop zit van een Zuid-Europees dorpje — sterrenhemel en al. Een ervaring op zichzelf.\n\nDe rondleiding door het gebouw is ook de moeite waard. Die is beschikbaar in het Engels. Je wordt zonder gids door het gebouw en de geschiedenis van de film geleid. Meer zeg ik er niet over — ik wil het niet spoilen.\n\nPraktisch: de website is in het Engels te zetten, maar zelfs dan vergt het wat geduld om erachter te komen hoe je een kaartje boekt.\n\nVoor in alle Franse bioscopen: films kunnen nagesynchroniseerd zijn (Version Française, 'VF') of in de originele taal met Franse ondertiteling (Version Originale, 'VO' of 'VOST'). Let daar op als je boekt.",
+        "fr": "Le Grand Rex. Un cinéma qui vous transporte dans le temps.\n\nEssayez absolument de vous procurer une place pour la Grande Salle. On s'y croirait dans un cinéma de plein air du sud de l'Europe – un ciel étoilé magnifique et tout le décor qui va avec. C'est une expérience à part entière.\n\nN'hésitez pas à faire la visite guidée du bâtiment, elle vaut le détour. Elle se déroule en anglais, et on vous fait découvrir les coulisses et l'histoire du cinéma sans vous dévoiler tous les secrets. Je ne veux pas vous gâcher la surprise !\n\nPour l'organisation, le site web est disponible en anglais, mais il faut parfois un peu de patience pour s'y retrouver et réserver.\n\nEt petit conseil pour tous les cinémas en France : vérifiez bien si le film est en version française doublée ('VF') ou en version originale sous-titrée ('VO' ou 'VOST') avant de réserver.",
+        "en": "Le Grand Rex is a cinema that truly evokes another time.\n\nIf you can, definitely try to see a film in La Grande Salle. It’s incredible – it feels like watching a movie under the stars in a small Southern European village. The whole experience is magical.\n\nThe guided tour is fantastic too. It’s available in English and takes you through the building’s history and the history of film in a really unique way. I won’t give too much away, though – it’s best to discover it for yourself!\n\nJust a heads-up: the website has an English option, but booking tickets can still be a little tricky, so be patient.\n\nAnd a general tip for French cinemas: films are either dubbed into French (marked as 'VF') or shown in their original language with French subtitles ('VO' or 'VOST'). Double-check which version you’re booking!",
+        "de": "Le Grand Rex. Ein Kino, das eine ganze Epoche atmet.\n\nVersuch mal, eine Karte für la Grande Salle zu bekommen. Das ist ein Saal, der aussieht, als wärst du in einer Freiluftkino eines südeuropäischen Dörfchens – mit Sternenhimmel und allem. Ein Erlebnis für sich.\n\nDie Führung durch das Gebäude ist auch lohnenswert. Die ist auf Englisch verfügbar. Du wirst ohne Guide durch das Gebäude und die Geschichte des Films geführt. Mehr sage ich dazu nicht – ich will es nicht verraten.\n\nPraktisch: Die Website lässt sich auf Englisch umstellen, aber selbst dann braucht man etwas Geduld, um herauszufinden, wie man eine Karte bucht.\n\nFür alle französischen Kinos gilt: Filme können nachsynchronisiert sein (Version Française, 'VF') oder in der Originalsprache mit französischen Untertiteln (Version Originale, 'VO' oder 'VOST'). Achte darauf, wenn du buchst.",
+        "es": "Le Grand Rex. Un cine que respira una época.\n\nIntenta conseguir una entrada para la Grande Salle. Es una sala que parece que estás en un cine al aire libre de un pueblito del sur de Europa — cielo estrellado incluido. Una experiencia en sí misma.\n\nLa visita guiada por el edificio también vale la pena. Está disponible en inglés. Te guían por el edificio y la historia del cine sin un guía. No digo más — no quiero arruinarte la sorpresa.\n\nPráctico: la página web se puede poner en inglés, pero incluso así requiere un poco de paciencia averiguar cómo reservar una entrada.\n\nPara en todos los cines franceses: las películas pueden estar dobladas (Version Française, 'VF') o en la lengua original con subtítulos en francés (Version Originale, 'VO' o 'VOST'). Presta atención a eso al reservar.",
+        "pt": "Le Grand Rex. Um cinema que respira uma época.\n\nTenta conseguir um bilhete para la Grande Salle. É uma sala que parece que estás num cinema ao ar livre de uma aldeia do sul da Europa — céu estrelado e tudo. Uma experiência por si só.\n\nO tour pelo edifício também vale a pena. Está disponível em inglês. Percorre o edifício e a história do cinema sem um guia. Não digo mais nada — não quero estragar a surpresa.\n\nPrático: o site pode ser colocado em inglês, mas mesmo assim requer alguma paciência para descobrir como reservar um bilhete.\n\nPara todos os cinemas franceses: os filmes podem ser dobrados (Version Française, 'VF') ou no idioma original com legendas em francês (Version Originale, 'VO' ou 'VOST'). Presta atenção a isso quando fazes a reserva.",
+        "it": "Le Grand Rex. Un cinema che respira un'epoca.\n\nProva a procurarti un biglietto per la Grande Salle. È una sala che sembra di essere in un cinema all'aperto di un paesino dell'Europa del Sud — cielo stellato incluso. Un'esperienza a sé.\n\nAnche il tour dell'edificio vale la pena. È disponibile in inglese. Vengono guidati attraverso l'edificio e la storia del cinema senza una guida. Non dico altro — non voglio rovinarvi la sorpresa.\n\nPraticamente: il sito web può essere impostato in inglese, ma anche così ci vuole un po' di pazienza per capire come prenotare un biglietto.\n\nPer tutte le sale cinematografiche francesi: i film possono essere doppiati (Version Française, 'VF') o in lingua originale con sottotitoli in francese (Version Originale, 'VO' o 'VOST'). Prestate attenzione quando prenotate."
+      }
+    },
+    {
+      "id": "le-loire-dans-le-theiere",
+      "name": "le Loire dans le Theiere",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "3 Rue des Rosiers, 75004 Paris",
+      "coordinates": {
+        "lat": 48.856234,
+        "lon": 2.361046
+      },
+      "text": {
+        "nl": "Le Loir dans la Théière. Een theehuis in het Marais met een gigantisch buffet van huisgemaakt gebak.\n\nElke tafel is anders, elke stoel is anders.\n\nOp drukke momenten is er een rij buiten. Dat hoort erbij. Neem een boekje mee voor in de rij — dat ben je helemaal Parisien.",
+        "fr": "Le Loir dans la Théière. Une charmante salle de thé dans le Marais où les gourmandises maison s'alignent sur un buffet à faire pâlir d'envie.\n\nChaque table, chaque chaise est unique.\n\nAttendez-vous à faire la queue aux heures affluées – c'est le signe d'une bonne adresse ! Profitez-en pour lire un livre, ça vous plongera tout de suite dans l'ambiance parisienne.",
+        "en": "Le Loir dans la Théière is a charming teahouse tucked away in the Marais, famous for its incredible buffet of homemade pastries.\n\nNo two tables – or chairs – are alike! It’s wonderfully quirky.\n\nExpect a queue when it’s popular, which it often is. The local trick? Bring a book to read while you wait – it’s the perfect way to feel like a true Parisian.",
+        "de": "Le Loir dans la Théière. Ein Teehaus im Marais mit einem riesigen Buffet an selbstgebackenen Kuchen.\n\nJeder Tisch ist anders, jeder Stuhl ist anders.\n\nZu Stoßzeiten gibt es eine Schlange vor der Tür. Das gehört dazu. Nimm ein kleines Buch für die Warteschlange mit – dann bist du ganz Parisien.",
+        "es": "Le Loir dans la Théière. Una casa de té en el Marais con un buffet gigante de pasteles caseros.\n\nCada mesa es diferente, cada silla es diferente.\n\nEn los momentos de más gente, hay una cola afuera. Es parte de la experiencia. Lleva un librito para la cola — así te sentirás totalmente parisino.",
+        "pt": "Le Loir dans la Théière. Uma casa de chá no Marais com um buffet gigante de bolos caseiros.\n\nCada mesa é diferente, cada cadeira é diferente.\n\nEm horários de pico, há uma fila lá fora. Faz parte. Leve um livrinho para a fila — aí você vira um verdadeiro parisiense.",
+        "it": "Le Loir dans la Théière. Una sala da tè nel Marais con un buffet gigantesco di dolci fatti in casa.\n\nOgni tavolo è diverso, ogni sedia è diversa.\n\nQuando è affollato, c'è la fila fuori. Fa parte del gioco. Porta con te un libretto per la fila – così sarai proprio parigino."
+      }
+    },
+    {
+      "id": "le-palais-des-thes",
+      "name": "Le Palais des Thes",
+      "section": "map",
+      "categories": [
+        "shops"
+      ],
+      "address": "64 Rue Vieille du Temple, 75004 Paris",
+      "coordinates": {
+        "lat": 48.858994,
+        "lon": 2.359256
+      },
+      "text": {
+        "nl": "Le Palais des Thés. De vestiging in het Marais ligt vlakbij ons appartement. Handig, want we komen er regelmatig.\n\nWe zijn grote fans van hun thee. Zowel in Parijs als thuis in Amsterdam hebben we een theekast vol staan met hun groene theebusjes.\n\nZe hebben per seizoen wisselende thee's. Drie ervan zijn bij ons huisklassiekers geworden: een zwarte thee met zeven citrussmaken — 'Goût Russe 7 Agrumes' — een rooibos met een vleugje vanille — 'Rooibos des Vahines' — en een groene thee met lychee en mango — 'Théophile'. Als we in Parijs zijn en de voorraad thuis raakt op, dan weten we waar we heen gaan.",
+        "fr": "Le Palais des Thés… leur boutique du Marais est notre voisin, ce qui est très pratique car on y va assez souvent.\n\nOn est de vrais passionnés de thé, et tant à Paris qu’à Amsterdam, notre armoire est toujours pleine de leurs jolies boîtes de thé vert.\n\nLeur sélection évolue au fil des saisons, mais on a quelques favoris qui sont devenus des incontournables : un thé noir parfumé aux sept agrumes – le ‘Goût Russe 7 Agrumes’ – un rooibos délicatement vanillé – le ‘Rooibos des Vahines’ – et un thé vert fruité à la litchi et à la mangue – ‘Théophile’. Quand la nostalgie se fait sentir, on sait exactement où trouver du réconfort à Paris.",
+        "en": "Le Palais des Thés is just around the corner from our apartment in the Marais, which is handy because we’re there all the time.\n\nPetra and I are completely addicted to their tea. We’ve got a whole cabinet full of their green tea tins both here in Paris and back home in Amsterdam.\n\nThey always have interesting seasonal blends, but we’ve found three that we keep coming back to: ‘Goût Russe 7 Agrumes,’ a black tea bursting with seven different citrus flavors; ‘Rooibos des Vahines,’ a rooibos with the subtlest hint of vanilla; and ‘Théophile,’ a green tea with lovely lychee and mango notes. Whenever we’re in Paris and starting to run low, we know exactly where to stock up.",
+        "de": "Le Palais des Thés. Die Filiale im Marais liegt ganz in der Nähe unserer Wohnung. Praktisch, denn wir kommen regelmäßig dorthin.\n\nWir sind große Fans von ihrem Tee. Sowohl in Paris als auch zu Hause in Amsterdam haben wir einen Teeschrank voll mit ihren grünen Teedosen.\n\nSie haben wechselnde Teesorten je nach Saison. Drei davon sind bei uns zu absoluten Klassikern geworden: ein schwarzer Tee mit sieben Zitrusaromen – 'Goût Russe 7 Agrumes' – ein Rooibos mit einer Prise Vanille – 'Rooibos des Vahines' – und ein grüner Tee mit Litschi und Mango – 'Théophile'. Wenn wir in Paris sind und der Vorrat zu Hause zur Neige geht, dann wissen wir, wo wir hingehen.",
+        "es": "Le Palais des Thés. La tienda en el Marais está muy cerca de nuestro apartamento. Práctico, porque vamos allí con frecuencia.\n\nSomos grandes fans de su té. Tanto en París como en casa en Ámsterdam, tenemos un armario lleno de sus latas de té verde.\n\nTienen tés que cambian según la temporada. Tres de ellos se han convertido en clásicos en casa: un té negro con siete sabores cítricos — 'Goût Russe 7 Agrumes' — un rooibos con un toque de vainilla — 'Rooibos des Vahines' — y un té verde con lichi y mango — 'Théophile'. Cuando estamos en París y se nos acaba el stock en casa, sabemos a dónde ir.",
+        "pt": "Le Palais des Thés. A loja no Marais fica bem perto do nosso apartamento. Prático, porque vamos lá com frequência.\n\nSomos grandes fãs do chá deles. Tanto em Paris quanto em casa em Amsterdam, temos um armário cheio de latas de chá verde deles.\n\nEles têm chás que mudam a cada estação. Três deles se tornaram clássicos em casa: um chá preto com sete sabores de cítricos — 'Goût Russe 7 Agrumes' — um rooibos com um toque de baunilha — 'Rooibos des Vahines' — e um chá verde com lichia e manga — 'Théophile'. Quando estamos em Paris e o estoque em casa acaba, sabemos para onde ir.",
+        "it": "Le Palais des Thés. La sede nel Marais è proprio vicino al nostro appartamento. Comodo, perché ci andiamo spesso.\n\nSiamo grandi appassionati del loro tè. Sia a Parigi che a casa, ad Amsterdam, abbiamo un mobile pieno di scatole del loro tè verde.\n\nHanno tè che cambiano a seconda della stagione. Tre di questi sono diventati dei classici a casa nostra: un tè nero con sette aromi di agrumi — 'Goût Russe 7 Agrumes' — un rooibos con un tocco di vaniglia — 'Rooibos des Vahines' — e un tè verde con litchi e mango — 'Théophile'. Quando siamo a Parigi e le scorte a casa si esauriscono, sappiamo esattamente dove andare."
+      }
+    },
+    {
+      "id": "le-parti-du-the",
+      "name": "Le parti du The",
+      "section": "map",
+      "categories": [
+        "shops"
+      ],
+      "address": "34 Rue Faidherbe, 75011 Paris",
+      "coordinates": {
+        "lat": 48.85275,
+        "lon": 2.383097
+      },
+      "text": {
+        "nl": "Le Parti du Thé. We hebben thuis altijd twee theemerken in huis: Le Palais des Thés en Le Parti du Thé. We zijn bij Le Parti du Thé terechtgekomen omdat hun thee op het menu staat van Le Loir dans la Théière. Daar besteld, thuis verder gezocht, en sindsdien vaste klant.",
+        "fr": "Le Parti du Thé… On a toujours deux adresses de thé de référence à la maison : Le Palais des Thés et Le Parti du Thé. On a découvert ce dernier grâce au Loir dans la Théière, qui propose leurs thés à la carte. On a adoré, on s’est renseigné une fois rentrés, et depuis, on est devenus des clients fidèles.",
+        "en": "Le Parti du Thé holds a special place for us. Petra and I first discovered them through Le Loir dans la Théière – their tea was on the menu, and I loved it so much I had to find it for ourselves. We’ve been devoted fans ever since, and now always keep a couple of their blends stocked alongside Le Palais des Thés.",
+        "de": "Le Parti du Thé. Wir haben zu Hause immer zwei Teesorten im Haus: Le Palais des Thés und Le Parti du Thé. Bei Le Parti du Thé sind wir gelandet, weil ihr Tee auf der Speisekarte von Le Loir dans la Théière steht. Dort bestellt, zu Hause weitergesucht, und seitdem treuer Kunde.",
+        "es": "Le Parti du Thé. Siempre hemos tenido dos marcas de té en casa: Le Palais des Thés y Le Parti du Thé. Descubrimos Le Parti du Thé porque su té está en la carta de Le Loir dans la Théière. Lo pedí allí, busqué más en casa, y desde entonces soy cliente fiel.",
+        "pt": "Le Parti du Thé. Em casa, sempre tivemos duas marcas de chá: Le Palais des Thés e Le Parti du Thé. Começamos a comprar na Le Parti du Thé porque o chá deles estava no menu do Le Loir dans la Théière. Pedi lá, procurei mais em casa, e desde então sou cliente fiel.",
+        "it": "Le Parti du Thé. A casa abbiamo sempre due marche di tè: Le Palais des Thés e Le Parti du Thé. Abbiamo scoperto Le Parti du Thé perché la loro selezione è presente nel menu di Le Loir dans la Théière. L'ho provato lì, poi l'ho cercato a casa, e da allora sono un cliente affezionato."
+      }
+    },
+    {
+      "id": "le-peloton",
+      "name": "Le Peloton",
+      "section": "map",
+      "categories": [
+        "restaurants-bars",
+        "sports-outdoor"
+      ],
+      "address": "17 Rue du Pont Louis-Philippe, 75004 Paris",
+      "coordinates": {
+        "lat": 48.855503,
+        "lon": 2.356008
+      },
+      "text": {
+        "nl": "Le Peloton. Petra is in Parijs altijd op zoek naar goede koffie, en die is hier te vinden.\n\nErik loopt af en toe mee met de zondagochtend loopgroep. De groep vertrekt om 9:00 en loopt 10 km door de stad. Een mooie manier om Parijs te zien vanuit een hardloopperspectief.",
+        "fr": "Le Peloton. Petra est toujours à l'affût des bonnes adresses à Paris, et ici, on ne manque pas un bon café.\n\nErik se joint parfois à la course du dimanche matin. Le groupe se lance à 9h et parcourt 10 km à travers la ville. C'est une façon vraiment sympa de découvrir Paris en courant.",
+        "en": "Le Peloton is a little gem – Petra always recommends it for great coffee in Paris, and it definitely delivers.\n\nI often join their Sunday morning run. It starts at 9:00 and covers about 10k, which is a really fun way to explore the city on foot and see Paris from a different angle.",
+        "de": "Le Peloton. Petra ist in Paris immer auf der Suche nach gutem Kaffee, und den findet man hier.\n\nErik läuft manchmal mit der Sonntags-Laufgruppe mit. Die Gruppe startet um 9:00 Uhr und läuft 10 km durch die Stadt. Eine schöne Art, Paris aus Läufersicht zu sehen.",
+        "es": "Le Peloton. Petra siempre está buscando buen café en París, y aquí lo encontramos.\n\nErik a veces se une al grupo de corredores de los domingos por la mañana. El grupo sale a las 9:00 y corre 10 km por la ciudad. Una forma bonita de ver París desde la perspectiva de un corredor.",
+        "pt": "Le Peloton. A Petra adora procurar um bom café em Paris, e aqui encontramos.\n\nO Erik às vezes acompanha o grupo de corrida de domingo de manhã. O grupo parte às 9:00 e corre 10 km pela cidade. Uma maneira bonita de ver Paris da perspectiva de um corredor.",
+        "it": "Le Peloton. Petra è sempre alla ricerca di un buon caffè a Parigi, e qui lo trova.\n\nErik ogni tanto si unisce al gruppo di corsa della domenica mattina. Il gruppo parte alle 9:00 e corre 10 km per la città. Un bel modo per vedere Parigi dal punto di vista di un corridore."
+      }
+    },
+    {
+      "id": "le-saigon-dantan",
+      "name": "le Saigon d'Antan",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "24 Rue Monsieur le Prince, 75006 Paris",
+      "coordinates": {
+        "lat": 48.84961,
+        "lon": 2.34015
+      },
+      "text": {
+        "nl": "Le Saigon d'Antan. We kwamen hier voor het eerst terecht omdat vrienden ons meenamen. We wisten weinig van Vietnamees eten. Na die eerste keer waren we verkocht.\n\nEen hoofdgerecht kost 15 euro. Het is niet de bedoeling dat je urenlang tafelt hier. Dat weet je van tevoren, en het past eigenlijk prima: combineer het met een avondje theater op de linkeroever. Snel eten, daarna lopend naar de zaal. Ideale combi.\n\nEriks vaste bestelling: Bo Bun Boeuf.",
+        "fr": "Le Saigon d'Antan… On y a été initiés par des amis et, avouons-le, on ne connaissait pas grand-chose à la cuisine vietnamienne. Coup de foudre dès la première fois !\n\nLes plats principaux tournent autour de 15 euros. Ce n'est pas un endroit où l'on s'installe pour une longue soirée, et c'est très bien comme ça. On peut facilement l'associer à une soirée sur la rive gauche : un repas rapide et ensuite, direction le théâtre. Une combinaison parfaite.\n\nErik, lui, ne jure que par le Bo Bun Boeuf.",
+        "en": "Le Saigon d'Antan is a little gem we discovered thanks to some friends. We weren’t very familiar with Vietnamese cuisine at the time, but we were instantly hooked after our first visit.\n\nMain courses are around €15, and it’s not the place for a long, lingering dinner – but that’s part of its charm! It’s perfect to combine with an evening at the theatre on the Left Bank. A quick, delicious meal, then a short walk to the show. Ideal.\n\nMy husband Erik always orders the Bo Bun Boeuf.",
+        "de": "Le Saigon d'Antan. Wir sind hier zum ersten Mal hingekommen, weil uns Freunde mitgenommen haben. Wir wussten wenig über vietnamesisches Essen. Nach diesem ersten Mal waren wir begeistert.\n\nEin Hauptgericht kostet 15 Euro. Es ist nicht die Absicht, dass man hier stundenlang sitzt. Das weiß man von vornherein, und das passt eigentlich ganz gut: man kombiniert es mit einem Theaterabend am linken Ufer. Schnell essen, danach zu Fuß zur Halle. Ideale Kombination.\n\nEriks feste Bestellung: Bo Bun Boeuf.",
+        "es": "Le Saigon d'Antan. La primera vez que vinimos fue porque unos amigos nos trajeron. No sabíamos casi nada de comida vietnamita. Después de esa primera vez, quedamos encantados.\n\nUn plato principal cuesta 15 euros. No es un lugar para quedarse horas. Lo sabes de antemano, y en realidad va bien: combínalo con una noche de teatro en la rive gauche. Comer rápido, y luego caminar hasta el teatro. Una combinación ideal.\n\nEl pedido fijo de Erik: Bo Bun Boeuf.",
+        "pt": "Le Saigon d'Antan. Nós fomos apresentados a este lugar porque uns amigos nos trouxeram. Não sabíamos quase nada sobre comida vietnamita. Depois da primeira vez, ficamos apaixonados.\n\nUm prato principal custa 15 euros. Não é para ficar à mesa por horas aqui. A gente sabe disso de antemão, e na verdade é perfeito: combina com uma noite de teatro na margem esquerda. Comer rápido, depois caminhar até o teatro. Combinação ideal.\n\nO pedido fixo do Erik: Bo Bun Boeuf.",
+        "it": "Le Saigon d'Antan. Siamo capitati qui la prima volta perché degli amici ci hanno portato. Sapevamo poco di cucina vietnamita. Dopo quella prima volta, ci siamo innamorati.\n\nUn piatto principale costa 15 euro. Non è il posto dove stare a tavola per ore. Lo sai in anticipo, e in realtà va benissimo così: lo puoi combinare con una serata a teatro sulla rive gauche. Mangi velocemente, poi vai a piedi al teatro. Combinazione ideale.\n\nL'ordinazione fissa di Erik: Bo Bun Boeuf."
+      }
+    },
+    {
+      "id": "les-philosophes",
+      "name": "Les Philosophes",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "28 Rue Vieille du Temple, 75004 Paris",
+      "coordinates": {
+        "lat": 48.857313,
+        "lon": 2.357519
+      },
+      "text": {
+        "nl": "Les Philosophes. Open van 9:00 tot 2:00. Bijna 24 uur per dag, zeven dagen per week. In een stad waar de keuken om 22:00 dichtgaat, is dat goud waard.\n\nOns favoriete gerecht: de Salade Chaise au Plafond — een grote salade met een flink stuk Comté en stukjes gerookte eend.",
+        "fr": "Les Philosophes. Ouvert de 9h à 2h. Presque en continu, sept jours sur sept. Dans Paris, où les cuisines ferment souvent à 22h, c'est une vraie aubaine.\n\nMon coup de cœur ? La Salade Chaise au Plafond – une généreuse salade avec un beau morceau de Comté et des lamelles de canard fumé.",
+        "en": "Les Philosophes. They’re open from 9am to 2am – which, in a city where most kitchens shut down at 10pm, is a real lifesaver.\n\nPetra and I always order the same thing: the Salade Chaise au Plafond. It’s a huge salad with a lovely chunk of Comté and delicious smoked duck.",
+        "de": "Les Philosophes. Geöffnet von 9:00 bis 2:00. Fast 24 Stunden am Tag, sieben Tage die Woche. In einer Stadt, in der die Küche um 22:00 Uhr schließt, ist das Gold wert.\n\nMein Lieblingsgericht: die Salade Chaise au Plafond — ein großer Salat mit einem ordentlichen Stück Comté und Stücken geräuchter Ente.",
+        "es": "Les Philosophes. Abierto de 9:00 a 2:00. Casi las 24 horas del día, siete días a la semana. En una ciudad donde las cocinas cierran a las 22:00, eso vale oro.\n\nNuestro plato favorito: la Salade Chaise au Plafond — una ensalada grande con un buen trozo de Comté y trocitos de pato ahumado.",
+        "pt": "Les Philosophes. Aberto das 9:00 às 2:00. Quase 24 horas por dia, sete dias por semana. Numa cidade onde a cozinha fecha às 22:00, isso vale ouro.\n\nO nosso prato favorito: a Salade Chaise au Plafond — uma grande salada com um pedaço generoso de Comté e pedaços de pato fumado.",
+        "it": "Les Philosophes. Aperto dalle 9:00 alle 2:00. Quasi 24 ore al giorno, sette giorni su sette. In una città dove la cucina chiude alle 22:00, questo è oro colato.\n\nIl nostro piatto preferito: la Salade Chaise au Plafond — una grande insalata con un bel pezzo di Comté e pezzetti di anatra affumicata."
+      }
+    },
+    {
+      "id": "linstant-cacao",
+      "name": "L'instant cacao",
+      "section": "map",
+      "categories": [
+        "shops"
+      ],
+      "address": "3 Rue des Petits Champs, 75001 Paris",
+      "coordinates": {
+        "lat": 48.866172,
+        "lon": 2.33928
+      },
+      "text": {
+        "nl": "L'Instant Cacao. Een klein winkeltje aan de Rue des Petits Champs waar je terechtkan voor een goede warme chocolademelk. Compact, gespecialiseerd, en de moeite waard als je in de buurt bent.",
+        "fr": "L'Instant Cacao est une petite boutique charmante, rue des Petits Champs, où l'on peut déguster un excellent chocolat chaud. C'est un endroit cosy et spécialisé qui vaut vraiment le coup d'œil si vous flânez dans le quartier.",
+        "en": "L'Instant Cacao is a tiny gem on the Rue des Petits Champs, the perfect place for a seriously good hot chocolate. It’s small but focused, and definitely worth seeking out if you’re nearby.",
+        "de": "L'Instant Cacao. Ein kleiner Laden in der Rue des Petits Champs, wo man einen guten heißen Kakao bekommt. Kompakt, spezialisiert und es lohnt sich, vorbeizuschauen, wenn ich gerade in der Gegend bin.",
+        "es": "L'Instant Cacao. Una pequeña tienda en la Rue des Petits Champs donde puedes encontrar un buen chocolate caliente. Es compacta, especializada, y vale la pena si estás cerca.",
+        "pt": "L'Instant Cacao. Uma pequena loja na Rue des Petits Champs onde você pode encontrar um bom chocolate quente. Compacta, especializada, e vale a pena se você estiver por perto.",
+        "it": "L'Instant Cacao. Un piccolo negozietto in Rue des Petits Champs dove posso andare per una buona cioccolata calda. Piccolo, specializzato, e vale la pena se sono nei paraggi."
+      }
+    },
+    {
+      "id": "maif-ekiden",
+      "name": "Maif Ekiden",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "coordinates": {
+        "lat": 48.857047,
+        "lon": 2.290539
+      },
+      "text": {
+        "nl": "De Maif Ekiden. Een marathon opgeknipt in zes stukken: twee van 10 km, drie van 5 km, en één van 7 km. Een estafetteloop voor zes lopers. Omdat de stukken ongelijk zijn, kun je een team samenstellen met lopers van heel verschillend niveau. Erik heeft de loop gedaan met zijn zus en de kinderen.\n\nHet wisselpunt is aan de voet van de Eiffeltoren. Hoe cool is dat?\n\nKaartjes zijn makkelijk te krijgen.",
+        "fr": "La Maif Ekiden, c'est un marathon original divisé en six étapes : deux de 10 km, trois de 5 km et une dernière de 7 km. C'est une course de relais idéale pour une équipe de six, et le principe est vraiment sympa : les distances variées permettent de composer une équipe avec des coureurs de tous niveaux. Erik a participé avec sa sœur et ses enfants, ça vous donne une idée !\n\nEt le plus chouette, c'est le point de relais qui se trouve au pied de la Tour Eiffel. Un cadre incroyable !\n\nL'inscription est simple et rapide.",
+        "en": "The Maif Ekiden is a really fun event – a marathon broken down into six legs: two 10k stretches, three 5k sections, and a final 7k. It’s a relay race designed for teams of six runners, and because the distances vary, it’s perfect for getting together a group with different abilities. I ran it with my sister and the kids, which was a blast!\n\nThe handover point is right at the base of the Eiffel Tower – seriously, how amazing is that?\n\nAnd best of all, it’s easy to register.",
+        "de": "Die Maif Ekiden. Ein Marathon aufgeteilt in sechs Abschnitte: zwei von 10 km, drei von 5 km und einer von 7 km. Ein Staffellauf für sechs Läufer. Da die Abschnitte unterschiedlich lang sind, kann man ein Team mit Läufern ganz unterschiedlichen Niveaus zusammenstellen. Erik hat den Lauf mit seiner Schwester und den Kindern gemacht.\n\nDer Wechselpunkt ist am Fuße des Eiffelturms. Wie cool ist das?\n\nTickets sind leicht zu bekommen.",
+        "es": "La Maif Ekiden. Un maratón dividido en seis tramos: dos de 10 km, tres de 5 km y uno de 7 km. Una carrera de relevos para seis corredores. Como los tramos no son iguales, puedes formar un equipo con corredores de niveles muy diferentes. Erik ha corrido con su hermana y los niños.\n\nEl punto de relevo está al pie de la Tour Eiffel. ¿Qué guay es eso?\n\nLas entradas son fáciles de conseguir.",
+        "pt": "A Maif Ekiden. Uma maratona dividida em seis partes: duas de 10 km, três de 5 km e uma de 7 km. Uma corrida de revezamento para seis corredores. Como as partes são desiguais, você pode montar uma equipe com corredores de níveis bem diferentes. Erik fez a corrida com a sua irmã e os filhos.\n\nO ponto de troca é aos pés da Tour Eiffel. Que legal, não é?\n\nOs bilhetes são fáceis de conseguir.",
+        "it": "La Maif Ekiden. Una maratona suddivisa in sei tratti: due da 10 km, tre da 5 km e uno da 7 km. Una staffetta per sei corridori. Visto che i tratti sono di lunghezza diversa, puoi comporre una squadra con corridori di livelli molto differenti. Io, Erik, ho corso con mia sorella e i bambini.\n\nIl punto di cambio è ai piedi della Tour Eiffel. Quanto è figo?\n\nI biglietti sono facili da ottenere."
+      }
+    },
+    {
+      "id": "marche-daligre",
+      "name": "Marche d'Aligre",
+      "section": "map",
+      "categories": [
+        "restaurants-bars",
+        "shops"
+      ],
+      "address": "Place d'Aligre, 75012 Paris",
+      "coordinates": {
+        "lat": 48.848863,
+        "lon": 2.378436
+      },
+      "text": {
+        "nl": "Marché d'Aligre. We houden allebei van markten, en dit is er een die het woord verdient.\n\nHet zijn eigenlijk drie markten in één: de groente- en fruitmarkt in de rue d'Aligre, de vlooienmarkt op de Place d'Aligre, en de overdekte Beauvau markt ernaast. De buitenmarkt is open van 7:30 tot 13:30. De overdekte markt van 9:00 tot 13:00, en 's middags weer van 16:00 tot 19:30.\n\nPetra kan urenlang bij Café Charlette in de zon zitten terwijl de markt om haar heen draait — of met veel kabaal wordt afgebouwd. Ze komt zelden met lege handen thuis. Onze collectie portglaasjes heeft aan de Marché d'Aligre heel wat uitbreidingen te danken.",
+        "fr": "Le Marché d'Aligre… On adore tous les deux les marchés, et celui-ci vaut vraiment le détour.\n\nC'est en fait trois marchés en un : le marché de plein air aux fruits et légumes dans la rue d'Aligre, le marché aux puces sur la place d'Aligre, et le marché couvert Beauvau, juste à côté. Le marché extérieur est ouvert de 7h30 à 13h30. Le marché couvert, de 9h à 13h, puis à nouveau l'après-midi de 16h à 19h30.\n\nPetra pourrait facilement passer des heures au Café Charlette, à lézarder au soleil pendant que le marché s'anime autour d'elle – ou qu'on le démonte bruyamment. Elle revient rarement les mains vides. Notre collection de verres à porto a beaucoup à remercier les trouvailles du Marché d'Aligre.",
+        "en": "Marché d'Aligre is a market both Petra and I adore, and it’s definitely worth seeking out.\n\nIt’s really three markets rolled into one: the vibrant fruit and vegetable stalls along the rue d'Aligre, the bustling flea market on the Place d'Aligre, and the covered Beauvau market right next door. The outdoor market runs from 7:30 to 1:30. Beauvau is open from 9:00 to 1:00, and then again in the afternoon from 4:00 to 7:30.\n\nPetra could happily spend hours at Café Charlette, soaking up the sun while the market buzzes around her – or gets noisily packed up at the end of the day. She almost always finds something to bring home with her. In fact, our collection of port wine glasses has grown considerably thanks to the Marché d'Aligre!",
+        "de": "Marché d'Aligre. Wir beide lieben Märkte, und dieser hier ist wirklich der Rede wert.\n\nEs sind eigentlich drei Märkte in einem: der Obst- und Gemüsemarkt in der rue d'Aligre, der Flohmarkt auf der Place d'Aligre und der überdachte Beauvau Markt daneben. Der Außenmarkt ist von 7:30 bis 13:30 Uhr geöffnet. Der überdachte Markt von 9:00 bis 13:00 Uhr und nachmittags wieder von 16:00 bis 19:30 Uhr.\n\nPetra kann stundenlang im Café Charlette in der Sonne sitzen, während der Markt um sie herum pulsiert – oder laut abgebaut wird. Sie kommt selten mit leeren Händen nach Hause. Unsere Sammlung an Portweingläsern hat dem Marché d'Aligre einiges zu verdanken.",
+        "es": "Marché d'Aligre. A Petra y a mí nos encantan los mercados, y este es uno que merece la pena.\n\nEn realidad son tres mercados en uno: el mercado de frutas y verduras en la rue d'Aligre, el mercadillo en la Place d'Aligre, y el mercado cubierto Beauvau al lado. El mercado al aire libre está abierto de 7:30 a 13:30. El mercado cubierto de 9:00 a 13:00, y por la tarde otra vez de 16:00 a 19:30.\n\nPetra puede pasar horas en Café Charlette al sol mientras el mercado da vueltas a su alrededor — o se desmonta con mucho ruido. Raramente vuelve a casa con las manos vacías. Nuestra colección de copas le debe muchas ampliaciones al Marché d'Aligre.",
+        "pt": "Marché d'Aligre. Nós dois adoramos mercados, e este é um que merece ser mencionado.\n\nNa verdade, são três mercados em um: o mercado de frutas e legumes na rue d'Aligre, o mercado de pulgas na Place d'Aligre, e o mercado coberto Beauvau ao lado. O mercado ao ar livre está aberto das 7:30 às 13:30. O mercado coberto das 9:00 às 13:00, e à tarde novamente das 16:00 às 19:30.\n\nPetra pode ficar horas no Café Charlette ao sol enquanto o mercado gira ao redor dela — ou é desmontado com muito barulho. Ela raramente volta para casa de mãos vazias. Nossa coleção de copos de vinho deve muito às expansões que teve no Marché d'Aligre.",
+        "it": "Marché d'Aligre. Ci piacciono entrambi i mercati, e questo è uno che merita di essere menzionato.\n\nIn realtà sono tre mercati in uno: il mercato di frutta e verdura in rue d'Aligre, il mercato delle pulci in Place d'Aligre, e il mercato coperto Beauvau accanto. Il mercato all'aperto è aperto dalle 7:30 alle 13:30. Il mercato coperto dalle 9:00 alle 13:00, e poi di nuovo nel pomeriggio dalle 16:00 alle 19:30.\n\nPetra può sedersi per ore al Café Charlette al sole mentre il mercato le gira intorno — o viene smontato rumorosamente. Raramente torna a casa a mani vuote. La nostra collezione di bicchieri da portogallo deve molto alle espansioni fatte al Marché d'Aligre."
+      }
+    },
+    {
+      "id": "metro",
+      "name": "Metro",
+      "section": "transport",
+      "categories": [
+        "tours-transportation"
+      ],
+      "text": {
+        "nl": "De metro. Wij doen bijna alles te voet of op een Vélib. Maar soms moet het toch de metro zijn.\n\nKaartjes kopen met Apple Pay: voeg een Navigo-pas toe aan je wallet, en koop daarna losse ritten op die pas. De klassieke papieren metrokaartjes zijn er niet meer.",
+        "fr": "Le métro parisien. On marche beaucoup, on utilise les Vélib'… mais parfois, il faut bien l'avouer, le métro est indispensable.\n\nPour les tickets, oubliez les traditionnels billets en papier : ils n'existent plus. Le plus simple, c'est d'ajouter une carte Navigo à votre portefeuille Apple Pay et d'acheter des trajets directement avec. C'est rapide et pratique !",
+        "en": "The Paris Metro. Petra and I usually explore on foot or by Vélib, but sometimes you just *need* the metro to get where you’re going.\n\nWhen it comes to tickets, you can easily use Apple Pay: add a Navigo-pas to your wallet and then purchase individual rides through that. Just a heads-up – they don’t sell the old paper tickets anymore.",
+        "de": "Die Metro. Petra und ich machen fast alles zu Fuß oder mit einem Vélib. Aber manchmal muss es eben die Metro sein.\n\nTickets mit Apple Pay kaufen: Du fügst eine Navigo-Karte zu deiner Wallet hinzu und kaufst dann Einzelfahrten auf diese Karte. Die klassischen Papier-Metrokarten gibt es nicht mehr.",
+        "es": "El metro. Casi siempre caminamos o usamos una Vélib, pero a veces, simplemente hay que tomar el metro.\n\nComprar billetes con Apple Pay: añade una Navigo-pas a tu cartera y luego compra viajes individuales con esa tarjeta. Ya no existen los billetes de metro de papel clásicos.",
+        "pt": "O metrô. Nós quase sempre fazemos tudo a pé ou de Vélib. Mas às vezes, precisa ser o metrô mesmo.\n\nComprar bilhetes com o Apple Pay: adicione um passe Navigo à sua carteira, e depois compre viagens avulsas nesse passe. Os bilhetes de metrô de papel clássicos não existem mais.",
+        "it": "La metropolitana. Di solito facciamo quasi tutto a piedi o con una Vélib. Ma a volte, bisogna proprio prendere la metropolitana.\n\nAcquistare i biglietti con Apple Pay: aggiungi una Navigo-pass al tuo wallet, e poi compra corse singole su quel pass. I classici biglietti della metropolitana di carta non esistono più."
+      }
+    },
+    {
+      "id": "monop",
+      "name": "Monop",
+      "section": "map",
+      "categories": [
+        "shops"
+      ],
+      "address": "71 Rue Saint-Antoine, 75004 Paris",
+      "coordinates": {
+        "lat": 48.85438,
+        "lon": 2.363401
+      },
+      "text": {
+        "nl": "De Monop. De Fransen korten alles af. De winkel heet officieel Monoprix, maar Parijzenaars noemen hem gewoon de Monop.\n\nDeze vestiging aan de Rue Saint-Antoine heeft een geheim. Van de buitenkant zie je een gewone stadswinkel. Maar achter in de winkel zit een trap naar beneden, en dan opent zich een grote supermarkt met precies wat je meestal alleen in de hypermarche's buiten de stad vindt: een indrukwekkende kaasafdeling, verse vis, charcuterie. Allemaal uitgestald zoals dat in de rest van Frankrijk vanzelfsprekend is.\n\nWil je een picknick samenstellen voor aan de oever van de Seine, dan is dit de plek. Kaas, worst, wijn — alles in één keer geregeld.",
+        "fr": "Le Monop’. Les Français ont le chic pour raccourcir les noms ! Officiellement, ça s’appelle Monoprix, mais à Paris, on dit juste le Monop.\n\nLe Monop de la rue Saint-Antoine a un petit plus. De l'extérieur, rien ne distingue cet épicerie de quartier. Mais au fond, un escalier dissimule un vrai supermarché, avec tout ce qu'on trouve habituellement uniquement en périphérie : un rayon fromage incroyable, du poisson frais, une belle sélection de charcuterie… Bref, l'offre qu'on a l'habitude d'avoir partout ailleurs en France.\n\nC'est l'endroit parfait pour préparer un pique-nique sur les quais de Seine. Fromage, charcuterie, vin… tout ce qu'il faut, en un seul coup !",
+        "en": "The Monop. The French love their abbreviations, and that’s what Parisians call it – though the official name is Monoprix.\n\nThis location on the Rue Saint-Antoine has a little secret. From the street, it looks like a typical corner shop, but there’s a staircase at the back that leads down to a surprisingly large supermarket. You’ll find everything you’d normally only get at the big hypermarchés outside the city: a fantastic cheese selection, fresh fish, charcuterie… all presented just as you’d expect in the rest of France.\n\nIf you’re planning a picnic by the Seine, this is the perfect place to stock up. Cheese, sausage, wine – you can grab everything you need in one go.",
+        "de": "Die Monop. Die Franzosen kürzen alles ab. Das Geschäft heißt offiziell Monoprix, aber Pariser nennen es einfach die Monop.\n\nDiese Filiale in der Rue Saint-Antoine hat ein Geheimnis. Von außen sieht man einen normalen Stadtladen. Aber hinten im Geschäft befindet sich eine Treppe nach unten, und dann öffnet sich ein großer Supermarkt mit genau dem, was man normalerweise nur in den Hypermarchés außerhalb der Stadt findet: eine beeindruckende Käsetheke, frischer Fisch, Charcuterie. Alles ausgestellt, wie das im Rest von Frankreich selbstverständlich ist.\n\nMöchte man ein Picknick zusammenstellen für das Ufer der Seine, dann ist dies der Ort. Käse, Wurst, Wein – alles auf einmal geregelt.",
+        "es": "La Monop. Los franceses acortan todo. La tienda se llama oficialmente Monoprix, pero los parisinos la llaman simplemente la Monop.\n\nEsta sucursal en la Rue Saint-Antoine tiene un secreto. Desde fuera ves una tienda de ciudad normal. Pero al fondo de la tienda hay una escalera que baja, y entonces se abre una gran supermercado con exactamente lo que normalmente solo encuentras en los hypermarché's a las afueras de la ciudad: un impresionante departamento de quesos, pescado fresco, charcutería. Todo dispuesto como es habitual en el resto de Francia.\n\nSi quieres preparar un picnic para la orilla del Sena, este es el lugar. Queso, embutido, vino — todo resuelto de una vez.",
+        "pt": "O Monop. Os franceses abreviam tudo. A loja se chama oficialmente Monoprix, mas os parisienses a chamam simplesmente de Monop.\n\nEsta filial na Rue Saint-Antoine tem um segredo. De fora, parece uma loja de cidade normal. Mas no fundo da loja tem uma escada para baixo, e então se abre um grande supermercado com exatamente o que você normalmente só encontra nas hypermarchés fora da cidade: um impressionante balcão de queijos, peixe fresco, charcutaria. Tudo exposto como é natural no resto da França.\n\nSe você quer montar um piquenique para a margem do Sena, este é o lugar. Queijo, salsicha, vinho — tudo resolvido de uma vez.",
+        "it": "Il Monop. I francesi abbreviano tutto. Il negozio si chiama ufficialmente Monoprix, ma i parigini lo chiamano semplicemente il Monop.\n\nQuesta sede in Rue Saint-Antoine ha un segreto. Dall'esterno vedi un normale negozio cittadino. Ma in fondo al negozio c'è una scala che scende, e poi si apre un grande supermercato con esattamente quello che di solito trovi solo negli ipermercati fuori città: un reparto formaggi impressionante, pesce fresco, salumi. Tutto esposto come è naturale nel resto della Francia.\n\nSe vuoi comporre un picnic per la riva della Seine, questo è il posto giusto. Formaggio, salsiccia, vino – tutto sistemato in una volta sola."
+      }
+    },
+    {
+      "id": "musee-carnavalet",
+      "name": "Musée Carnavalet",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "23 Rue de Sévigné, 75003 Paris",
+      "coordinates": {
+        "lat": 48.857029,
+        "lon": 2.3629
+      },
+      "text": {
+        "nl": "Musée Carnavalet. Een museum over Parijs en zijn geschiedenis, gevestigd in een van de mooiste gebouwen van het Marais.\n\nDe stijlkamers zijn prachtig — interieurs die per periode de stad laten zien. Maar ook als je niet van museums houdt, is het gebouw zelf al een reden om naar binnen te gaan. En de toegang is gratis.",
+        "fr": "Le Musée Carnavalet est un véritable écrin dédié à l'histoire de Paris, niché dans l'un des plus beaux hôtels particuliers du Marais.\n\nSes salles, chacune plus charmante que l'autre, vous transportent à travers les époques et vous font revivre la ville à différentes périodes. Mais même si les musées ne sont pas votre tasse de thé, le bâtiment lui-même vaut le détour. Cerise sur le gâteau : l'entrée est gratuite !",
+        "en": "Musée Carnavalet is a real gem – a museum dedicated to the history of Paris, and it’s housed in one of the most beautiful buildings in the Marais district.\n\nThe period rooms are stunning; they recreate interiors from different eras of the city’s past. But honestly, even if museums aren’t usually your thing, the building alone is worth a visit. And the best part? Admission is free!",
+        "de": "Musée Carnavalet. Ein Museum über Paris und seine Geschichte, untergebracht in einem der schönsten Gebäude des Marais.\n\nDie Stilzimmer sind wunderschön – Innenräume, die die Stadt je nach Epoche zeigen. Aber auch wenn du keine Museen magst, ist das Gebäude selbst schon ein Grund, hineinzugehen. Und der Eintritt ist kostenlos.",
+        "es": "Musée Carnavalet. Un museo sobre París y su historia, ubicado en uno de los edificios más hermosos del Marais.\n\nLas salas de estilo son preciosas — interiores que muestran la ciudad por período. Pero incluso si no te gustan los museos, el edificio en sí ya es una razón para entrar. Y la entrada es gratuita.",
+        "pt": "Musée Carnavalet. Um museu sobre Paris e sua história, instalado em um dos edifícios mais bonitos do Marais.\n\nOs salões de estilo são lindos — interiores que mostram a cidade por período. Mas mesmo se você não goste de museus, o edifício em si já é um motivo para entrar. E a entrada é gratuita.",
+        "it": "Musée Carnavalet. Un museo su Parigi e la sua storia, situato in uno degli edifici più belli del Marais.\n\nLe sale in stile sono magnifiche – interni che mostrano la città per periodo. Ma anche se non ami i musei, l'edificio stesso è già un motivo per entrare. E l'ingresso è gratuito."
+      }
+    },
+    {
+      "id": "musee-picasso",
+      "name": "Musée Picasso",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "5 Rue de Thorigny, 75003 Paris",
+      "coordinates": {
+        "lat": 48.85987,
+        "lon": 2.362115
+      },
+      "text": {
+        "nl": "Musée Picasso. Een museum in onze wijk, de Marais. Zoals bij veel musea in Parijs geldt ook hier: het is niet alleen de kunst, het is ook het gebouw en de plek. Het Hôtel Salé, een 17e-eeuws stadspaleis, vormt een onwaarschijnlijk mooie omgeving voor Picasso's werk.",
+        "fr": "Le Musée Picasso. Un incontournable de notre quartier, le Marais. Comme pour tant d'autres musées parisiens, l'expérience dépasse largement la simple découverte des œuvres : le lieu lui-même est un enchantement. L'Hôtel Salé, un magnifique palais du XVIIe siècle, offre un écrin exceptionnel à l'œuvre de Picasso.",
+        "en": "Musée Picasso is a gem tucked away in le Marais, our neighborhood. Like so many museums in Paris, it’s about more than just the art – the building and its location are part of the experience. Picasso’s work is housed in the Hôtel Salé, a stunning 17th-century palace that’s an absolute treat to explore.",
+        "de": "Musée Picasso. Ein Museum in unserer Gegend, dem Marais. Wie bei vielen Museen in Paris gilt auch hier: es ist nicht nur die Kunst, es ist auch das Gebäude und der Ort. Das Hôtel Salé, ein Stadthaus aus dem 17. Jahrhundert, bildet eine unglaublich schöne Umgebung für Picassos Werk.",
+        "es": "Musée Picasso. Un museo en nuestro barrio, el Marais. Como en muchos museos en París, aquí también se trata de que no es solo el arte, sino también el edificio y el lugar. El Hôtel Salé, un palacio urbano del siglo XVII, forma un entorno increíblemente hermoso para la obra de Picasso.",
+        "pt": "Musée Picasso. Um museu no nosso bairro, o Marais. Como em muitos museus em Paris, aqui também vale: não é só a arte, é também o edifício e o local. O Hôtel Salé, um palácio urbano do século XVII, forma um ambiente incrivelmente belo para a obra de Picasso.",
+        "it": "Musée Picasso. Un museo nel nostro quartiere, il Marais. Come per molti musei a Parigi, anche qui vale: non è solo l'arte, è anche l'edificio e il luogo. L'Hôtel Salé, un palazzo cittadino del XVII secolo, costituisce un ambiente incredibilmente bello per le opere di Picasso."
+      }
+    },
+    {
+      "id": "opera-garnier",
+      "name": "Opera Garnier",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "10 Place de l'Opéra, 75009 Paris",
+      "coordinates": {
+        "lat": 48.87131,
+        "lon": 2.332131
+      },
+      "text": {
+        "nl": "Opera Garnier. Er zijn weinig gebouwen in Parijs die je zo van je stokje blazen als dit. Van buiten al indrukwekkend, van binnen ronduit overweldigend.\n\nKaartjes zijn niet makkelijk te krijgen. Als je je trip naar Parijs ruim van tevoren plant, ga dan naar de site van de opera — die is in het Engels te zetten. Opera's hebben Engelse boventiteling, dus de taal is geen obstakel.",
+        "fr": "L'Opéra Garnier… Difficile de trouver à Paris un bâtiment qui vous impressionne autant. Déjà grandiose de l'extérieur, il est tout simplement à couper le souffle à l'intérieur.\n\nLes places sont assez demandées. Si vous organisez votre voyage à Paris à l'avance, je vous conseille de consulter le site web de l'Opéra – il est disponible en anglais. Et pas d'inquiétude pour la langue : les opéras sont surtitrés en anglais.",
+        "en": "The Opera Garnier is one of those Paris buildings that truly takes your breath away. It’s impressive from the outside, but walking inside is just…overwhelming.\n\nTickets can be tricky to get, so planning ahead is key. Check the opera’s website – it has an English version – as soon as you know your travel dates. And don’t worry about the language barrier; they provide English surtitles during performances.",
+        "de": "Oper Garnier. Es gibt nur wenige Gebäude in Paris, die dich so umhauen wie dieses. Von außen schon beeindruckend, von innen schlichtweg überwältigend.\n\nKarten zu bekommen ist nicht einfach. Wenn du deine Reise nach Paris lange im Voraus planst, dann schau auf die Seite der Oper — die kann man auf Englisch umstellen. Opern haben englische Übertitel, also ist die Sprache kein Hindernis.",
+        "es": "Opera Garnier. Hay pocos edificios en París que te dejen tan sin aliento como este. Ya es impresionante por fuera, pero por dentro es sencillamente abrumador.\n\nLas entradas no son fáciles de conseguir. Si planeas tu viaje a París con bastante antelación, ve a la página web de la ópera — se puede poner en inglés. Las óperas tienen sobretítulos en inglés, así que el idioma no es un obstáculo.",
+        "pt": "Opera Garnier. Poucos edifícios em Paris te deixam tão impressionado como este. Já é imponente por fora, mas por dentro é simplesmente avassalador.\n\nOs bilhetes não são fáceis de conseguir. Se planeias a tua viagem a Paris com bastante antecedência, vai ao site da ópera – podes colocá-lo em inglês. As óperas têm legendas em inglês, portanto a língua não é um obstáculo.",
+        "it": "Opera Garnier. Ci sono pochi edifici a Parigi che ti tolgono il fiato come questo. Già dall'esterno è impressionante, ma dentro è semplicemente travolgente.\n\nI biglietti non sono facili da ottenere. Se pianifichi il tuo viaggio a Parigi con largo anticipo, vai sul sito dell'opera — puoi impostarlo in inglese. Le opere hanno i sottotitoli in inglese, quindi la lingua non è un problema."
+      }
+    },
+    {
+      "id": "parijs-versailles-16k",
+      "name": "Parijs-Versailles 16K",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "coordinates": {
+        "lat": 48.854742,
+        "lon": 2.289053
+      },
+      "text": {
+        "nl": "Parijs-Versailles 16K. Een klassieker in september, en heel populair. Kaartjes kopen doe je op de dag dat de verkoop opengaat in april. De website ligt er op dat moment regelmatig uit — zet er even de tijd voor opzij. Zodra je betaling verwerkt is, heb je je kaartje.\n\nOfficieel is het 16 km, maar het voelt langer. Je begint aan de oever van de Seine en loopt omhoog naar Versailles. Na 6 kilometer begint een klim van 2 km die aardig steil is.",
+        "fr": "La Paris-Versailles 16K, un incontournable de septembre, et une épreuve très prisée ! L'ouverture des inscriptions en avril est le moment clé pour s'assurer une place. Préparez-vous à être patient, le site web est souvent saturé à ce moment-là. Mais dès que le paiement est validé, c'est dans la poche.\n\nOfficiellement, on parle de 16 kilomètres, mais on a plutôt l'impression que ça en fait davantage. Le parcours débute le long de la Seine avant de s'élever progressivement vers Versailles. Attendez-vous à une montée de 2 kilomètres assez conséquente après les 6 premiers kilomètres.",
+        "en": "The Paris-Versailles 16K is a September classic, and it’s hugely popular! Tickets go on sale in April, and you’ll want to be ready – the website tends to crash under the demand, so allow yourself plenty of time to get through. Once your payment goes through, though, you’re golden.\n\nIt’s officially 16 kilometers, but it always *feels* longer. The route starts along the Seine and then gradually heads uphill towards Versailles. Around the 6-kilometer mark, you hit a fairly steep 2-kilometer climb.",
+        "de": "Paris-Versailles 16K. Ein Klassiker im September, und sehr beliebt. Tickets kaufst du am Tag, an dem der Verkauf im April eröffnet wird. Die Webseite ist zu diesem Zeitpunkt regelmäßig überlastet – nimm dir dafür einfach etwas Zeit. Sobald deine Zahlung bearbeitet wurde, hast du dein Ticket.\n\nOffiziell sind es 16 km, aber es fühlt sich länger an. Du startest am Ufer der Seine und läufst bergauf nach Versailles. Nach 6 Kilometern beginnt ein Anstieg von 2 km, der ordentlich steil ist.",
+        "es": "París-Versalles 16K. Un clásico en septiembre, y muy popular. Los billetes los compras el día que se abre la venta en abril. La página web se cae con frecuencia en ese momento — reserva un rato para ello. En cuanto se procese tu pago, tendrás tu billete.\n\nOficialmente son 16 km, pero se siente más largo. Empiezas a orillas del Sena y subes hacia Versailles. Después de 6 kilómetros comienza una subida de 2 km que es bastante empinada.",
+        "pt": "Paris-Versailles 16K. Um clássico em setembro, e bem popular. Os ingressos você compra no dia em que a venda abre em abril. O site costuma ficar fora do ar naquele momento — reserve um tempinho para isso. Assim que seu pagamento for processado, você terá seu ingresso.\n\nOficialmente são 16 km, mas parece mais longo. Você começa na margem do Sena e sobe até Versailles. Depois de 6 quilômetros começa uma subida de 2 km que é bem íngreme.",
+        "it": "Parigi-Versailles 16K. Un classico a settembre, e molto popolare. I biglietti li compri il giorno in cui la vendita apre ad aprile. Il sito web spesso va giù in quel momento – mettici da parte un po' di tempo. Appena il tuo pagamento è processato, hai il tuo biglietto.\n\nUfficialmente sono 16 km, ma sembra più lungo. Parti dalla riva della Senna e cammini in salita verso Versailles. Dopo 6 chilometri inizia una salita di 2 km che è abbastanza ripida."
+      }
+    },
+    {
+      "id": "paris-by-bike",
+      "name": "Paris by Bike",
+      "section": "tours",
+      "categories": [
+        "tours-transportation"
+      ],
+      "text": {
+        "nl": "Paris by Bike: https://www.parisbybike.eu/. Als Parijs nieuw voor je is, is dit een fijne manier om de stad te leren kennen. Een Nederlandstalige rondleiding op Nederlandse fietsen, langs de hoogtepunten van het centrum: Louvre, Palais Royal, le Marais. Ook met kinderen heel goed te doen.",
+        "fr": "Paris à vélo avec Paris by Bike : https://www.parisbybike.eu/. Si vous découvrez Paris, c'est une façon vraiment agréable de la découvrir ! Leurs visites guidées en néerlandais, à vélo – des vélos hollandais confortables – vous emmènent au cœur des incontournables : le Louvre, le Palais Royal, le Marais… C'est une activité idéale même avec des enfants.",
+        "en": "Paris by Bike: https://www.parisbybike.eu/. If you’re new to Paris, this is a wonderful way to discover the city. They offer tours in Dutch on comfortable Dutch bikes, taking you past all the central highlights – the Louvre, Palais Royal, and Le Marais. It’s a surprisingly easy ride, even with kids!",
+        "de": "Paris by Bike: https://www.parisbybike.eu/. Wenn du Paris noch nicht kennst, ist das eine schöne Möglichkeit, die Stadt zu erkunden. Eine niederländischsprachige Führung auf holländischen Fahrrädern, vorbei an den Highlights der Innenstadt: Louvre, Palais Royal, le Marais. Auch mit Kindern ist das gut machbar.",
+        "es": "París en bicicleta: https://www.parisbybike.eu/. Si París te es nuevo, esta es una forma agradable de conocer la ciudad. Un tour guiado en neerlandés sobre bicicletas holandesas, pasando por los puntos más destacados del centro: Louvre, Palais Royal, le Marais. También es muy fácil hacerlo con niños.",
+        "pt": "Paris de Bicicleta: https://www.parisbybike.eu/. Se Paris é novo para você, esta é uma ótima maneira de conhecer a cidade. Um tour guiado em holandês em bicicletas holandesas, passando pelos pontos altos do centro: Louvre, Palais Royal, le Marais. Também é muito bom para fazer com crianças.",
+        "it": "Paris by Bike: https://www.parisbybike.eu/. Se Paris è una novità per te, questo è un bel modo per conoscere la città. Un tour guidato in olandese su biciclette olandesi, lungo i punti salienti del centro: Louvre, Palais Royal, le Marais. Si fa benissimo anche con i bambini."
+      }
+    },
+    {
+      "id": "parkeren-buiten-parijs",
+      "name": "Parkeren buiten Parijs",
+      "section": "transport",
+      "categories": [
+        "tours-transportation"
+      ],
+      "text": {
+        "nl": "Parkeren buiten Parijs. Als vrienden ons opzoeken en ze komen met de auto, raden we ze aan net buiten de ring te parkeren. In het centrum rijden is niet voor iedereen weggelegd, en parkeren in de stad is duur.\n\nWij wijzen ze op de Indigo Vincennes Marigny Château parkeerplaats. Veel betaalbaarder. Vanaf daar neem je metrolijn 1 richting Défense de stad in — of je pakt een Vélib, al is dat wel even een flinke rit.",
+        "fr": "Quand des amis nous rendent visite et arrivent en voiture, on leur conseille toujours de se garer juste en dehors du périphérique parisien. Conduire au centre de Paris peut être stressant, et le stationnement est très coûteux.\n\nOn leur recommande souvent le parking Indigo Vincennes Marigny Château. C'est une option bien plus économique. De là, ils peuvent facilement rejoindre le centre-ville en prenant la ligne 1 du métro direction La Défense – ou, s'ils sont motivés, louer un Vélib' pour une agréable promenade !",
+        "en": "When friends are visiting Paris by car, I always suggest parking just outside the périphérique – the ring road. Driving into the city center can be stressful, and parking is notoriously expensive.\n\nI usually recommend the Indigo Vincennes Marigny Château car park. It’s a much more budget-friendly option. From there, you can easily hop on metro line 1 towards La Défense to get into the city – or if you’re feeling energetic, rent a Vélib bike, though it’s a bit of a cycle!",
+        "de": "Parken außerhalb von Paris. Wenn Freunde uns besuchen und sie kommen mit dem Auto, empfehlen wir ihnen, etwas außerhalb des Rings zu parken. Im Zentrum zu fahren ist nicht jedermanns Sache, und das Parken in der Stadt ist teuer.\n\nWir weisen sie auf das Indigo Vincennes Marigny Château Parkhaus hin. Viel bezahlbarer. Von dort aus nimmt man die Metrolinie 1 Richtung Défense in die Stadt – oder man nimmt ein Vélib, auch wenn das ein ganz schöner Ritt ist.",
+        "es": "Aparcar a las afueras de París. Cuando amigos nos visitan y vienen en coche, les recomendamos que aparquen justo fuera del periférico. Conducir por el centro no es para todo el mundo, y aparcar en la ciudad es caro.\n\nLes indicamos el parking Indigo Vincennes Marigny Château. Mucho más asequible. Desde allí, puedes coger la línea 1 del metro en dirección a Défense para entrar en la ciudad — o puedes coger una Vélib, aunque es un buen paseo.",
+        "pt": "Estacionar fora de Paris. Quando amigos nos visitam e vêm de carro, recomendamos que estacionem logo fora do anel viário. Dirigir no centro não é para todos, e estacionar na cidade é caro.\n\nNós indicamos o estacionamento Indigo Vincennes Marigny Château. Bem mais acessível. De lá, pega-se a linha 1 do metrô em direção à Défense para entrar na cidade — ou pega-se uma Vélib, embora seja uma boa pedalada.",
+        "it": "Parcheggiare fuori Parigi. Quando amici vengono a trovarci e arrivano in auto, gli consigliamo di parcheggiare appena fuori dal périphérique. Guidare in centro non è per tutti, e parcheggiare in città è costoso.\n\nGli indichiamo il parcheggio Indigo Vincennes Marigny Château. Molto più accessibile economicamente. Da lì si prende la linea 1 della metropolitana in direzione Défense per entrare in città — oppure si può prendere una Vélib, anche se è una bella pedalata."
+      }
+    },
+    {
+      "id": "picknick-aan-de-seine",
+      "name": "Picknick aan de Seine",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "coordinates": {
+        "lat": 48.85327,
+        "lon": 2.354488
+      },
+      "text": {
+        "nl": "Picknick aan de Seine. Dit is onze favoriete picknickplek in Parijs — en niet alleen de onze. Hier wordt massaal gepicknickt.\n\nOfficieel mag je geen tafels of stoelen neerzetten op de kade. Maar kleine opvouwbare strandstoeltjes vallen daar net buiten. Die nemen wij altijd mee. Ze zijn te koop bij de Au Vieux Campeur, een outdoorwinkel die niet ver hier vandaan zit.\n\nEven een mand halen bij de Monop, stoeltjes uitvouwen aan het water, en je bent klaar.",
+        "fr": "Un pique-nique sur les quais de Seine… C’est notre spot préféré à Paris, et on n’est pas les seuls ! C’est l’endroit idéal pour ça, et il y a toujours du monde.\n\nTechniquement, il n’est pas permis de s’installer avec des tables et des chaises sur les quais. Mais un petit fauteuil de plage pliable, ça ne se voit pas. On en emporte toujours, on les trouve chez Au Vieux Campeur, un super magasin de plein air pas loin d’ici.\n\nIl suffit d’un panier de Monop’, de déplier les fauteuils au bord de l’eau, et le tour est joué.",
+        "en": "Picnic on the Seine – it’s our favorite spot in Paris, and we’re not alone! You’ll find plenty of people enjoying a picnic here.\n\nTechnically, you’re not supposed to set up tables or chairs directly on the quayside, but small, foldable beach chairs are easily overlooked. We always bring a couple, and you can find them at Au Vieux Campeur, a great outdoor shop nearby.\n\nAll you need is a basket from the Monop, unfold your chairs by the water, and you’re good to go.",
+        "de": "Picknick an der Seine. Das ist unser Lieblingspicknickplatz in Paris – und nicht nur unserer. Hier wird massenhaft gepicknickt.\n\nOffiziell darf man keine Tische oder Stühle auf der Uferpromenade aufstellen. Aber kleine zusammenklappbare Strandstühle fallen da geradeaus raus. Die nehmen wir immer mit. Sie sind zu kaufen bei der Au Vieux Campeur, einem Outdoorladen, der nicht weit von hier ist.\n\nKurz einen Korb bei der Monop holen, Stühle am Wasser aufklappen, und man ist fertig.",
+        "es": "Picnic a orillas del Sena. Este es nuestro lugar favorito para hacer picnic en París — y no solo el nuestro. Aquí se hace picnic masivamente.\n\nOficialmente, no está permitido poner mesas ni sillas en el muelle. Pero las pequeñas sillas plegables de playa se escapan de eso. Siempre llevamos unas con nosotros. Se compran en Au Vieux Campeur, una tienda de artículos para actividades al aire libre que no está lejos de aquí.\n\nSolo hay que ir a buscar una cesta a la Monop, desplegar las sillas junto al agua, y listo.",
+        "pt": "Piquenique à Seine. Este é o nosso lugar de piquenique favorito em Paris — e não só o nosso. Aqui se faz piqueniques em massa.\n\nOficialmente, não se pode colocar mesas ou cadeiras no cais. Mas pequenas cadeiras de praia dobráveis escapam a isso. Nós levamos sempre. Elas estão à venda na Au Vieux Campeur, uma loja de artigos para o ar livre que não fica muito longe daqui.\n\nSó preciso ir buscar um cesto à Monop, estender as cadeiras à beira da água, e está tudo pronto.",
+        "it": "Picnic sulle rive della Senna. Questo è il nostro posto preferito per fare un picnic a Parigi — e non solo il nostro. Qui si fa picnic in gran numero.\n\nUfficialmente non si possono mettere tavoli o sedie sul lungofiume. Ma le piccole sedie da spiaggia pieghevoli rientrano in una zona grigia. Le portiamo sempre con noi. Le trovi da Au Vieux Campeur, un negozio di articoli sportivi che non è lontano da qui.\n\nBasta andare a prendere un cesto da Monop, aprire le sedie a bordo dell'acqua, e sei a posto."
+      }
+    },
+    {
+      "id": "rayon-superette",
+      "name": "Rayon Superette",
+      "section": "map",
+      "categories": [
+        "restaurants-bars"
+      ],
+      "address": "51 Rue de Rivoli, 75004 Paris",
+      "coordinates": {
+        "lat": 48.856076,
+        "lon": 2.358709
+      },
+      "text": {
+        "nl": "Rayon Superette. Een van Petra's vaste plekken voor goede koffie in het Marais.\n\nDe hoofdingang zit aan de Rue de Rivoli. Maar Petra gebruikt de ingang aan de Rue du Roi de Sicile — dan sta je gelijk bij de koffiecounter, zonder eerst door de hele zaak te hoeven.",
+        "fr": "Rayon Superette. Un de mes coups de cœur de Petra dans le Marais, idéal pour un bon café.\n\nL'entrée principale donne sur la rue de Rivoli, mais Petra nous conseille de passer par la rue du Roi de Sicile : on se retrouve directement au comptoir, sans devoir traverser tout le magasin.",
+        "en": "Rayon Superette is one of my go-to spots for a great coffee in the Marais.\n\nThe main entrance is on Rue de Rivoli, but I always use the one on Rue du Roi de Sicile – it takes you straight to the coffee counter, so you skip wandering through the whole store.",
+        "de": "Rayon Superette. Einer von Petras Lieblingsorten für guten Kaffee im Marais.\n\nDer Haupteingang ist an der Rue de Rivoli. Aber Petra benutzt den Eingang an der Rue du Roi de Sicile – dann steht man gleich am Counter, ohne erst durch das ganze Geschäft zu müssen.",
+        "es": "Rayon Superette. Uno de los lugares habituales de Petra para un buen café en el Marais.\n\nLa entrada principal está en la Rue de Rivoli. Pero Petra usa la entrada en la Rue du Roi de Sicile — así llegas directamente al mostrador del café, sin tener que atravesar toda la tienda primero.",
+        "pt": "Rayon Superette. Um dos lugares habituais da Petra para um bom café no Marais.\n\nA entrada principal fica na Rue de Rivoli. Mas a Petra usa a entrada na Rue du Roi de Sicile — assim, já se chega diretamente ao balcão do café, sem precisar atravessar toda a loja primeiro.",
+        "it": "Rayon Superette. Uno dei posti fissi di Petra per un buon caffè nel Marais.\n\nL'ingresso principale è su Rue de Rivoli. Ma Petra usa l'ingresso su Rue du Roi de Sicile — così mi ritrovo subito al bancone del caffè, senza dover attraversare tutto il locale."
+      }
+    },
+    {
+      "id": "roland-garros",
+      "name": "Roland Garros",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "address": "2 Avenue Gordon Bennett, 75016 Paris",
+      "coordinates": {
+        "lat": 48.846764,
+        "lon": 2.248971
+      },
+      "text": {
+        "nl": "Roland Garros. De French Open. Eind mei, begin juni. Het weer is er bijna altijd heerlijk en de sfeer is geweldig. De tribunes zijn zo aangelegd dat je overal goed zicht hebt op het veld. Perfect om de grote namen op clay te zien spelen.\n\nHet ligt wat buiten het centrum. Met een Vélib' of de metro ben je er in een halfuur. Op een drukke toernooidag kan het even zoeken zijn naar een Vélib'-station met vrije plekken.\n\nKaartjes kopen is een verhaal apart. Last minute kun je voor 15, 20 of 25 euro terecht op de buitenvelden — dan mag je de hele dag op alle kleine Courts rondlopen. Soms word je zelfs toegelaten tot de grote Courts. Vroeg in het toernooi zie je op de kleine Courts al verrassend goede partijen. Wij gaan altijd naar de Legends Trophy. Daar spelen de spelers uit de jaren 80 en 90 tegen elkaar.\n\nWil je naar de topwedstrijden, dan moet je er vroeg bij zijn. Er zijn twee routes. De makkelijke maar onzekere: meedoen aan een loterij die toegang geeft tot de kaartverkoop op een bepaald tijdstip. Werkt lang niet altijd. De zekere route is de voorverkoop, maar die is alleen toegankelijk voor mensen met een FFT-licentie. Daarvoor moet je lid worden van een Franse tennisclub. Dat hebben wij gedaan — we zijn 'Membre Soutien' van de Tennis Club Gennevillois. Niet online te regelen, je moet even langs. Heb je de licentie, dan mag je vier Center Court-kaartjes kopen per licentie, met 10% korting.",
+        "fr": "Roland Garros. Les Internationaux de France. Fin mai, début juin. On y profite souvent d'un temps magnifique et l'ambiance est vraiment exceptionnelle. Les courts sont agencés de façon à offrir une excellente visibilité partout, ce qui est parfait pour admirer les grands noms du tennis.\n\nLe site est un peu excentré, mais on peut facilement s'y rendre en une trentaine de minutes avec un Vélib' ou le métro. Attention, par une journée de compétition bien remplie, il peut être compliqué de trouver une place pour garer son Vélib' !\n\nL'achat des billets demande un peu d'organisation. Si on s'y prend à la dernière minute, on peut trouver des places pour les courts extérieurs à 15, 20 ou 25 euros. Cela permet de passer une journée entière à suivre les matchs sur les petits courts, et parfois même d'accéder aux courts principaux. En début de tournoi, on peut déjà assister à de belles rencontres sur les courts secondaires. Nous, on ne manque jamais la Legends Trophy, où les joueurs des années 80 et 90 se retrouvent pour des matchs toujours très disputés.\n\nPour les matchs de haut niveau, il faut anticiper. Il y a deux options : tenter sa chance ou s'organiser. On peut participer à une loterie qui donne accès à une vente de billets à date fixe. C'est simple, mais pas garanti. La solution la plus sûre, c'est la prévente, réservée aux détenteurs d'une licence FFT. Pour cela, il faut devenir membre d'un club de tennis en France. C'est ce qu'on a fait : on est devenu \"Membre Soutien\" du Tennis Club Gennevillois. L'inscription ne se fait pas en ligne, il faut se déplacer directement au club. Une fois la licence en poche, on peut acheter jusqu'à quatre billets pour le Court Central par licence FFT.",
+        "en": "Roland Garros – the French Open – in late May or early June is a real treat. The weather is usually beautiful, and the atmosphere is incredible. The stadiums are designed so well that you get a great view of the action from pretty much anywhere, making it perfect for watching the top players.\n\nIt’s a little outside the city centre, but easily reachable in about half an hour by Vélib' bike or metro. Just be warned, finding a free Vélib' station can be tricky on a busy tournament day!\n\nGetting tickets can be an adventure. If you leave it until the last minute, you can usually snag a ground pass for around €15, €20, or €25, which gives you access to all the outside courts all day – and sometimes you even get lucky and can watch a match on one of the bigger courts. Even early in the tournament, the smaller courts offer some fantastic matches. We always make time for the Legends Trophy; it’s fun to watch the stars of the 80s and 90s compete.\n\nIf you’re hoping to get into the big matches, you need to plan ahead. There are two ways to do it: an easy but unreliable option, and a more difficult but guaranteed one. You can enter a lottery for access to ticket sales, which is simple enough, but doesn’t always pay off. The reliable route is through the pre-sale, but that requires an FFT license – meaning you need to join a French tennis club. That’s what we did! We’re ‘Membre Soutien’ (supporting members) of the Tennis Club Gennevillois. You can’t arrange that online; you have to visit the club in person. Once you’re a member, you can buy four Centre Court tickets per license.",
+        "de": "Roland Garros. Die French Open. Ende Mai, Anfang Juni. Es ist dort oft wunderschönes Wetter und die Stimmung ist fantastisch. Die Stadien sind so gebaut, dass man überall eine gute Sicht auf das Feld hat. Perfekt, um die großen Spieler zu sehen.\n\nEs liegt etwas außerhalb des Zentrums. Mit einem Vélib' oder der Metro ist man in einer halben Stunde dort. An einem vollen Turniertag kann es etwas dauern, einen Platz für dein Vélib' zu finden.\n\nKarten kaufen ist eine Geschichte für sich. Wenn man es last minute angeht, kann man für 15, 20 oder 25 Euro Karten für die Außenfelder kaufen. Dann darfst du den ganzen Tag auf allen kleinen Courts zuschauen. Manchmal wirst du sogar auf die großen Courts gelassen. Wenn du früh im Turnier gehst, kannst du auch auf den kleinen Courts schon gute Partien sehen. Wir gehen immer zur Legends Trophy. Dort spielen die Spieler aus den 80ern und 90ern gegeneinander.\n\nMöchtest du zu den Top-Matches, musst du früh dran sein. Es gibt zwei Möglichkeiten. Eine einfache, aber unsichere, und eine schwierige, aber sichere. Du kannst an einer Lotterie teilnehmen, mit der du zu einem bestimmten Zeitpunkt Zugang zum Kartenverkauf erhältst. Einfach, aber es liefert lange nicht immer eine Karte. Der sichere Weg ist der Vorverkauf. Der ist nur zugänglich für Leute mit einer FFT Lizenz. Dafür musst du Mitglied in einem französischen Tennisclub werden. Das haben wir gemacht. Wir sind 'Membre Soutien' des Tennis Club Gennevillois. Das kann man nicht online regeln, man muss mal bei ihnen vorbeischauen. Wenn du das gemacht hast, darfst du vier Center Court Karten pro FFT Lizenz kaufen.",
+        "es": "Roland Garros. El Abierto de Francia. Finales de mayo, principios de junio. Suelen hacer un tiempo maravilloso y el ambiente es fantástico. Los estadios están construidos de tal manera que tienes una buena vista del campo desde cualquier lugar. Perfecto para ver a los grandes jugadores.\n\nEstá un poco a las afueras del centro. Con un Vélib' o el metro llegas en media hora. En un día de torneo con mucha gente, puede que te cueste encontrar un lugar para dejar tu Vélib'.\n\nComprar entradas es una historia aparte. Si lo dejas para el último momento, puedes comprar entradas para los campos exteriores por 15, 20 o 25 euros. Entonces puedes ver en todos los Courts pequeños durante todo el día. A veces incluso te dejan entrar en los Courts grandes. Si vas al principio del torneo, también puedes ver buenos partidos en los Courts pequeños. Nosotros siempre vamos a la Legends Trophy. Allí juegan los jugadores de los años 80 y 90 entre ellos.\n\nSi quieres ir a los partidos principales, tienes que estar atento desde el principio. Hay dos maneras. Una fácil pero insegura, y una difícil pero segura. Puedes participar en una lotería que te da acceso a la venta de entradas en un momento determinado. Fácil, pero no siempre te asegura una entrada. La ruta segura es la preventa. Esta solo es accesible para las personas con una licencia FFT. Para eso tienes que ser miembro de un club de tenis francés. Eso es lo que hemos hecho nosotros. Somos 'Membre Soutien' del Tennis Club Gennevillois. No puedes gestionarlo online, tienes que ir a verlos en persona. Una vez hecho esto, puedes comprar cuatro entradas para el Centre Court por cada licencia FFT.",
+        "pt": "Roland Garros. O French Open. Final de maio, início de junho. É frequentemente um clima delicioso e a atmosfera é fantástica. Os estádios são construídos de forma que você tenha uma boa visão do campo em todos os lugares. Perfeito para ver os grandes jogadores.\n\nFica um pouco fora do centro. Com um Vélib' ou o metrô, você chega em meia hora. Em um dia de torneio movimentado, pode ser preciso procurar um lugar para devolver seu Vélib'.\n\nComprar ingressos é uma história à parte. Se você deixar para a última hora, pode comprar ingressos para os campos externos por 15, 20 ou 25 euros. Então você pode assistir em todos os Courts menores o dia todo. Às vezes, você até é admitido nos grandes Courts. Se você for no início do torneio, também pode ver bons jogos nos Courts menores. Nós sempre vamos para a Legends Trophy. Lá, os jogadores dos anos 80 e 90 jogam uns contra os outros.\n\nSe você quiser assistir aos jogos de ponta, precisa se apressar. Existem duas maneiras. Uma fácil, mas incerta, e uma difícil, mas certa. Você pode participar de uma loteria que lhe dá acesso à venda de ingressos em um determinado momento. Fácil, mas não garante um ingresso. O caminho seguro é a pré-venda. Esta é acessível apenas para pessoas com uma licença FFT. Para isso, você precisa se tornar membro de um clube de tênis francês. Nós fizemos isso. Somos 'Membre Soutien' do Tennis Club Gennevillois. Você não pode organizar isso online, precisa ir até lá. Uma vez feito isso, você pode comprar quatro ingressos para o Center Court por licença FFT.",
+        "it": "Roland Garros. Il torneo di Francia. Fine maggio, inizio giugno. Di solito il tempo è splendido e l'atmosfera fantastica. Gli stadi sono costruiti in modo da avere una buona visuale del campo ovunque. Perfetto per vedere i grandi giocatori.\n\nSi trova un po' fuori dal centro. Con un Vélib' o la metro ci si arriva in mezz'ora. In una giornata di torneo affollata, può essere difficile trovare un posto per riporre il tuo Vélib'.\n\nComprare i biglietti è una storia a parte. Se ci pensi all'ultimo minuto, puoi comprare biglietti per i campi esterni a 15, 20 o 25 euro. In questo modo puoi guardare su tutti i piccoli Courts per tutto il giorno. A volte ti fanno persino entrare nei grandi Courts. Se vai all'inizio del torneo, puoi già vedere buone partite anche sui piccoli Courts. Noi andiamo sempre alla Legends Trophy. Lì i giocatori degli anni '80 e '90 giocano l'uno contro l'altro.\n\nSe vuoi vedere le partite più importanti, devi muoverti in anticipo. Ci sono due modi. Uno facile ma incerto, e uno difficile ma sicuro. Puoi partecipare a una lotteria che ti dà accesso alla vendita dei biglietti in un determinato momento. Facile, ma non ti garantisce sempre un biglietto. Il percorso sicuro è la prevendita. Questa è accessibile solo a chi ha una licenza FFT. Per ottenerla devi diventare membro di un club di tennis francese. L'abbiamo fatto noi. Siamo 'Membre Soutien' del Tennis Club Gennevillois. Non puoi sistemare la cosa online, devi andare a trovarli di persona. Una volta fatto, puoi comprare quattro biglietti per il Center Court per ogni licenza FFT."
+      }
+    },
+    {
+      "id": "street-art-tour",
+      "name": "Street Art Tour",
+      "section": "tours",
+      "categories": [
+        "tours-transportation"
+      ],
+      "text": {
+        "nl": "Street Art Tour. Parijs heeft heel veel streetart. Echt heel veel. We hebben een aantal rondleidingen gedaan via streetarttourparis.com, en die hebben echt onze ogen geopend voor de ongelooflijke hoeveelheid die er hangt.\n\nHeel leuk om te doen — niet alleen voor wat je tijdens de tour te zien krijgt, maar vooral omdat je daarna de streetart overal begint te zien. Je kijkt anders door de stad.",
+        "fr": "Street Art Tour. Paris regorge de street art. Vraiment, c'est incroyable ! Nous avons participé à plusieurs visites guidées organisées par streetarttourparis.com, et elles nous ont vraiment ouvert les yeux sur la richesse de la scène locale.\n\nC'est une activité super sympa – non seulement pour ce qu'on découvre pendant la visite, mais surtout parce qu'après, on ne peut plus s'empêcher de repérer le street art partout. On change de regard sur la ville.",
+        "en": "Street Art Tour in Paris. Wow, Paris has *so* much street art – seriously, a ton! My friend Petra and I took a couple of tours with streetarttourparis.com, and they completely opened our eyes to how much incredible art is hidden in plain sight.\n\nIt’s a really fun experience – not just for the art you see *on* the tour, but especially because afterwards you start noticing it everywhere. It changes how you look at the whole city.",
+        "de": "Street Art Tour. Paris hat ganz, ganz viel Streetart. Wirklich ganz, ganz viel. Wir haben ein paar Führungen über streetarttourparis.com gemacht, und die haben uns wirklich die Augen geöffnet für die unglaubliche Menge, die es dort gibt.\n\nSehr schön, das zu machen – nicht nur wegen dem, was man während der Tour sieht, sondern vor allem, weil man danach überall Streetart zu sehen beginnt. Man schaut anders durch die Stadt.",
+        "es": "Tour de Arte Callejero. París tiene muchísima arte callejero. De verdad, muchísima. Hicimos un par de tours guiados a través de streetarttourparis.com, y realmente nos abrieron los ojos a la increíble cantidad que hay.\n\nMuy divertido hacerlo — no solo por lo que ves durante el tour, sino sobre todo porque después empiezas a ver arte callejero por todas partes. Ves la ciudad de otra manera.",
+        "pt": "Tour de Arte de Rua. Paris tem imensa arte de rua. Mesmo muita. Fizemos alguns tours guiados através de streetarttourparis.com, e eles realmente abriram os nossos olhos para a quantidade incrível que existe por aí.\n\nMuito divertido de fazer — não só pelo que se vê durante o tour, mas principalmente porque depois começamos a ver a arte de rua em todo o lado. A gente passa a olhar a cidade de outra forma.",
+        "it": "Giro di Street Art. Parigi ha tantissima street art. Davvero tantissima. Abbiamo fatto alcuni tour guidati tramite streetarttourparis.com, e ci hanno davvero aperto gli occhi sulla quantità incredibile che c'è.\n\nÈ stato molto bello farlo — non solo per quello che si vede durante il tour, ma soprattutto perché dopo inizi a vedere la street art ovunque. Guardi la città in modo diverso."
+      }
+    },
+    {
+      "id": "theatre-lodeon",
+      "name": "Theatre L'Odeon",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "1 Rue de l'Odéon, 75006 Paris",
+      "coordinates": {
+        "lat": 48.850046,
+        "lon": 2.338718
+      },
+      "text": {
+        "nl": "Théâtre de l'Odéon. Het gebouw ziet er van binnen en van buiten heel klassiek uit. De voorstellingen zijn dat niet. Modern, soms expliciet, soms absurd. Je moet van toneel in de onorthodoxe vorm houden — dan is dit precies de plek.\n\nKaarten zijn betaalbaar en je hoeft niet ver van tevoren te boeken.\n\nAls we gaan, combineren we het met een vroege maaltijd bij Le Saigon d'Antan, vlak in de buurt.",
+        "fr": "Le Théâtre de l'Odéon. De l'extérieur comme à l'intérieur, le bâtiment respire le classicisme… mais les spectacles, eux, sont tout sauf conventionnels. On y voit des créations modernes, parfois audacieuses, parfois décalées, voire absurdes. Si vous appréciez le théâtre qui sort des sentiers battus, c'est l'endroit rêvé.\n\nLes places sont à des prix raisonnables et il n'est généralement pas nécessaire de réserver des semaines à l'avance.\n\nPour une soirée réussie, je vous conseille de commencer par dîner au Saigon d'Antan, un excellent restaurant situé juste à côté.",
+        "en": "Théâtre de l'Odéon is a beautiful building, classic both inside and out. But don’t expect traditional performances! They lean modern – sometimes challenging, sometimes a little shocking, often wonderfully absurd. It’s perfect if you enjoy theatre that breaks the mold.\n\nTickets are reasonably priced and usually available without booking weeks ahead.\n\nWe always like to pair a show here with an early dinner at Le Saigon d'Antan, a fantastic Vietnamese restaurant just around the corner.",
+        "de": "Théâtre de l'Odéon. Das Gebäude sieht von innen und außen sehr klassisch aus. Die Aufführungen sind es aber nicht. Modern, manchmal explizit, manchmal absurd. Man muss Theater in unkonventioneller Form mögen – dann ist dies genau der richtige Ort.\n\nKarten sind erschwinglich und man muss nicht lange im Voraus buchen.\n\nWenn wir hingehen, verbinden wir es mit einem frühen Essen bei Le Saigon d'Antan, das ganz in der Nähe ist.",
+        "es": "Théâtre de l'Odéon. El edificio se ve muy clásico por dentro y por fuera. Las representaciones no lo son. Modernas, a veces explícitas, a veces absurdas. Hay que gustarte el teatro en una forma poco ortodoxa — entonces este es exactamente el lugar.\n\nLas entradas son asequibles y no tienes que reservar con mucha antelación.\n\nCuando vamos, lo combinamos con una cena temprana en Le Saigon d'Antan, que está muy cerca.",
+        "pt": "Théâtre de l'Odéon. O prédio parece bem clássico por dentro e por fora. As apresentações não são. Modernas, às vezes explícitas, às vezes absurdas. É preciso gostar de teatro em formas nada ortodoxas — aí este é o lugar certo.\n\nOs ingressos são acessíveis e não é preciso reservar com muita antecedência.\n\nQuando vamos, combinamos com uma refeição cedo no Le Saigon d'Antan, que fica bem perto.",
+        "it": "Théâtre de l'Odéon. L'edificio appare molto classico sia dentro che fuori. Gli spettacoli non lo sono. Moderni, a volte espliciti, a volte assurdi. Bisogna amare il teatro in forme non ortodosse — allora questo è proprio il posto giusto.\n\nI biglietti sono accessibili e non bisogna prenotare con troppo anticipo.\n\nQuando andiamo, lo combiniamo con una cena anticipata da Le Saigon d'Antan, proprio vicino."
+      }
+    },
+    {
+      "id": "theatre-point-virgule",
+      "name": "Theatre Point Virgule",
+      "section": "map",
+      "categories": [
+        "culture"
+      ],
+      "address": "7 Rue Sainte-Croix de la Bretonnerie, 75004 Paris",
+      "coordinates": {
+        "lat": 48.857856,
+        "lon": 2.356898
+      },
+      "text": {
+        "nl": "Théâtre Point Virgule. Dit is Frans toneel — geen ondertiteling, geen Engelse versie. Je moet er een aardig woordje Frans voor kunnen.\n\nHet programma bestaat veel uit standup met publieksparticipatie. Voor wie minder vertrouwd is met de taal zijn de klassiekers het meest toegankelijk: elke zaterdag L'Avare van Molière, elke zondag Les Fourberies de Scapin.\n\nVrijdag- en zaterdagavond om 22:30 is er le Grand Showtime: pure improvisatie op input van het publiek. Heel leuk — maar vergt wel wat Frans.",
+        "fr": "Le Théâtre Point Virgule, c'est vraiment une expérience parisienne authentique. Oubliez les sous-titres et les versions anglaises, ici on joue en français, tout simplement ! Il faut donc avoir quelques bases pour profiter pleinement.\n\nLa programmation est dominée par le stand-up, souvent interactif avec le public. Si vous êtes moins à l'aise avec la langue, je vous conseille les classiques : *L'Avare* de Molière le samedi et *Les Fourberies de Scapin* le dimanche.\n\nLe vendredi et samedi soir à 22h30, ne manquez pas le Grand Showtime, une soirée d'improvisation pure où les suggestions du public font le spectacle. C'est super amusant… mais un minimum de français est quand même requis pour bien suivre !",
+        "en": "Théâtre Point Virgule is a truly French experience – no subtitles, no English versions. You’ll need a good grasp of French to fully enjoy it.\n\nThe program is heavily focused on stand-up and shows with audience interaction. If your French isn’t quite up to par, I’d recommend checking out the classics: Molière’s *L’Avare* on Saturdays and *Les Fourberies de Scapin* on Sundays are both excellent choices. \n\nFor something a bit different, they have *Le Grand Showtime* on Friday and Saturday nights at 10:30 PM – it’s a completely improvised show based on suggestions from the audience. It’s a lot of fun, but again, some French is pretty essential!",
+        "de": "Théâtre Point Virgule. Das ist französisches Theater – keine Untertitel, keine englische Version. Man muss da schon ein paar Worte Französisch können.\n\nDas Programm besteht viel aus Stand-up mit Publikumsbeteiligung. Für wen die Sprache weniger vertraut ist, sind die Klassiker am zugänglichsten: jeden Samstag L'Avare von Molière, jeden Sonntag Les Fourberies de Scapin.\n\nFreitag- und Samstagabend um 22:30 gibt es le Grand Showtime: pure Improvisation auf Input vom Publikum. Sehr lustig – aber das verlangt dann doch ein bisschen Französisch.",
+        "es": "Théâtre Point Virgule. Esto es teatro francés — sin subtítulos, sin versión en inglés. Tienes que saber un poco de francés para entenderlo.\n\nEl programa consiste mucho en monólogos con participación del público. Para quien no esté muy familiarizado con el idioma, los clásicos son lo más accesible: cada sábado L'Avare de Molière, cada domingo Les Fourberies de Scapin.\n\nLos viernes y sábados por la noche a las 22:30 hay le Grand Showtime: pura improvisación basada en las sugerencias del público. Muy divertido — pero requiere un poco de francés.",
+        "pt": "Théâtre Point Virgule. Isto é teatro francês — sem legendas, sem versão em inglês. É preciso saber algumas palavras em francês para aproveitar.\n\nA programação consiste muito em stand-up com participação do público. Para quem não tem tanta familiaridade com a língua, os clássicos são os mais acessíveis: toda sábado L'Avare de Molière, todo domingo Les Fourberies de Scapin.\n\nSexta e sábado à noite, às 22:30, tem le Grand Showtime: pura improvisação com base no input do público. É muito divertido — mas exige um certo conhecimento de francês.",
+        "it": "Théâtre Point Virgule. Questo è teatro francese — niente sottotitoli, nessuna versione inglese. Devi saper dire qualche parola in francese.\n\nIl programma è composto soprattutto da stand-up con partecipazione del pubblico. Per chi ha meno familiarità con la lingua, i classici sono i più accessibili: ogni sabato L'Avare di Molière, ogni domenica Les Fourberies de Scapin.\n\nVenerdì e sabato sera alle 22:30 c'è le Grand Showtime: pura improvvisazione basata sui suggerimenti del pubblico. Molto divertente — ma richiede un po' di francese."
+      }
+    },
+    {
+      "id": "urban-trail-montmartre",
+      "name": "Urban Trail Montmartre",
+      "section": "map",
+      "categories": [
+        "sports-outdoor"
+      ],
+      "coordinates": {
+        "lat": 48.886179,
+        "lon": 2.341506
+      },
+      "text": {
+        "nl": "Urban Trail Montmartre. In september loopt Erik deze trail door Montmartre. Met 7 km is het korter dan zijn gebruikelijke 10K-rondje — maar dit zijn wel 7 km door Montmartre en over meer dan 1.200 treden. De benen voelen het daarna echt.\n\nKaartjes zijn makkelijk te krijgen.",
+        "fr": "Urban Trail Montmartre. En septembre, Erik s'élancera sur cette course à pied à travers Montmartre. Avec 7 km, c'est un peu plus court que son habituel 10K – mais que ce sont 7 km intenses à travers Montmartre, avec plus de 1200 marches à gravir ! Il le sent bien passer dans les jambes après ça.\n\nL'inscription est simple et rapide.",
+        "en": "Urban Trail Montmartre. I ran this race through Montmartre in September. At 7km, it’s a bit shorter than my usual 10K – but those 7km are packed with the charm of Montmartre *and* over 1,200 steps! My legs were definitely feeling it afterwards.\n\nRegistration was nice and easy, though.",
+        "de": "Urban Trail Montmartre. Im September läuft Erik diesen Trail durch Montmartre. Mit 7 km ist er kürzer als seine übliche 10K-Runde – aber das sind eben 7 km durch Montmartre und über mehr als 1.200 Stufen. Die Beine spüren das danach richtig.\n\nKarten sind leicht zu bekommen.",
+        "es": "Urban Trail Montmartre. En septiembre, Erik va a correr esta carrera por Montmartre. Con 7 km, es más corta que su habitual vuelta de 10K — pero son 7 km por Montmartre y más de 1.200 escalones. Las piernas lo notan después, la verdad.\n\nLas entradas son fáciles de conseguir.",
+        "pt": "Urban Trail Montmartre. Em setembro, Erik fará esta trilha por Montmartre. Com 7 km, é mais curto que o seu habitual percurso de 10K — mas são 7 km por Montmartre e por mais de 1.200 degraus. As pernas realmente sentem depois.\n\nOs bilhetes são fáceis de conseguir.",
+        "it": "Urban Trail Montmartre. A settembre, Erik correrà questo trail a Montmartre. Con 7 km è più corto del suo solito giro di 10K — ma sono 7 km a Montmartre e su più di 1.200 gradini. Le gambe le sentirà davvero dopo.\n\nI biglietti sono facili da procurarsi."
+      }
+    },
+    {
+      "id": "velib",
+      "name": "Velib",
+      "section": "transport",
+      "categories": [
+        "tours-transportation"
+      ],
+      "text": {
+        "nl": "Vélib. Parijs wordt steeds meer een fietsstad. Meer fietspaden, minder auto's. Voor ons de ideale manier om door de stad te bewegen.\n\nHet systeem heet Vélib, en het werkt verrassend goed. Stations vind je door de hele stad. Maak een gratis abonnement aan, voeg je Vélib-kaart toe aan de wallet van je iPhone, en je bent klaar om te rijden. Een rit kost een paar euro. Je kunt kiezen tussen een gewone of een elektrische fiets.\n\nEen belangrijk detail bij het inleveren: wacht tot er 'Stop' op het scherm staat. Pas dan is de fiets echt teruggezet en stopt de teller. Vergeet je dat, dan loopt de meter door.\n\nVia de Vélib-app zie je hoeveel fietsen er op elk station staan en of er plek is om in te leveren. Stations kunnen vol zijn — dan rijd je even door naar het volgende.",
+        "fr": "Vélib’. Paris se transforme vraiment en ville de vélo : de plus en plus de pistes cyclables, de moins en moins de voitures. Pour moi et Petra, c’est clairement le moyen idéal de se déplacer.\n\nLe système, c’est Vélib’, et il est étonnamment pratique. On trouve des stations partout, il suffit de prendre un abonnement (gratuit !), d’enregistrer votre carte Vélib’ dans l’application et c’est parti. Une course coûte quelques euros, et vous avez le choix entre un vélo classique ou un modèle électrique.\n\nUn petit conseil quand vous rendez le vélo : assurez-vous que le mot « Stop » s’affiche bien sur l’écran. C’est seulement à ce moment-là que le vélo est correctement enregistré et que la facturation s’arrête. Si vous oubliez, le compteur continue de tourner !\n\nL’application Vélib’ vous permet de voir en temps réel le nombre de vélos disponibles dans chaque station et s’il y a de la place pour en déposer. Il arrive qu’une station soit pleine – dans ce cas, passez à la station suivante.",
+        "en": "Vélib. Paris is becoming a fantastic city for cycling – more bike lanes, fewer cars. For Petra and me, it’s the perfect way to get around.\n\nThe bike share system is called Vélib, and it’s surprisingly easy to use. Stations are everywhere. You just create a free account, add your Vélib card to your iPhone wallet, and you’re set. Rides are affordable, just a few euros. You can choose between a classic bike or an electric one.\n\nHere’s a key tip for when you return your bike: make sure the screen says ‘Stop’ before you walk away. That’s how they register the return and stop the clock. If you don’t wait for it, you’ll keep being charged!\n\nThe Vélib app is super helpful – it shows you how many bikes are available at each station and whether they have space for returns. Stations can get full, but if that happens, just head to the next one.",
+        "de": "Vélib. Paris wird immer mehr zur Fahrradstadt. Mehr Radwege, weniger Autos. Für uns die ideale Art, sich in der Stadt fortzubewegen.\n\nDas System heißt Vélib, und es funktioniert überraschend gut. Stationen findet man überall in der Stadt. Schließe ein kostenloses Abonnement ab, füge deine Vélib-Karte zum Portemonnaie deines iPhones hinzu, und du bist bereit loszufahren. Eine Fahrt kostet ein paar Euro. Du kannst zwischen einem normalen oder einem E-Bike wählen.\n\nEin wichtiges Detail beim Zurückgeben: warte, bis auf dem Bildschirm 'Stop' steht. Erst dann ist das Fahrrad wirklich zurückgesetzt und der Zähler stoppt. Vergisst man das, läuft der Zähler weiter.\n\nÜber die Vélib-App siehst du, wie viele Fahrräder an jeder Station stehen und ob Platz zum Zurückgeben ist. Stationen können voll sein – dann fährst du einfach zur nächsten weiter.",
+        "es": "Vélib. París se está convirtiendo cada vez más en una ciudad para bicicletas. Más carriles bici, menos coches. Para Petra y para mí, es la forma ideal de movernos por la ciudad.\n\nEl sistema se llama Vélib, y funciona sorprendentemente bien. Encuentras estaciones por toda la ciudad. Te haces una suscripción gratuita, añades tu tarjeta Vélib a la cartera de tu iPhone, y ya estás listo para montar. Un viaje cuesta unos cuantos euros. Puedes elegir entre una bicicleta normal o una eléctrica.\n\nUn detalle importante al devolverla: espera a que aparezca 'Stop' en la pantalla. Solo entonces la bicicleta se devuelve correctamente y se detiene el contador. Si te olvidas de eso, el contador sigue funcionando.\n\nA través de la app de Vélib ves cuántas bicicletas hay en cada estación y si hay espacio para devolverla. Las estaciones pueden estar llenas — entonces sigues hasta la siguiente.",
+        "pt": "Vélib. Paris está se tornando cada vez mais uma cidade de bicicleta. Mais ciclovias, menos carros. Para nós, é a maneira ideal de nos locomover pela cidade.\n\nO sistema se chama Vélib, e funciona surpreendentemente bem. Você encontra estações por toda a cidade. Faça uma assinatura gratuita, adicione seu cartão Vélib à carteira do seu iPhone, e está pronto para pedalar. Uma corrida custa alguns euros. Você pode escolher entre uma bicicleta comum ou uma elétrica.\n\nUm detalhe importante na hora de devolver: espere até aparecer 'Stop' na tela. Só então a bicicleta é realmente registrada e o contador para. Se você esquecer disso, o medidor continua funcionando.\n\nPelo aplicativo Vélib você vê quantas bicicletas tem em cada estação e se tem espaço para devolver. As estações podem estar cheias — então você vai para a próxima.",
+        "it": "Vélib. Parigi sta diventando sempre più una città da bici. Più piste ciclabili, meno auto. Per noi è il modo ideale per muoverci in città.\n\nIl sistema si chiama Vélib, e funziona sorprendentemente bene. Trovi le stazioni in tutta la città. Fai un abbonamento gratuito, aggiungi la tua Vélib-card al wallet del tuo iPhone, e sei pronto a pedalare. Un viaggio costa qualche euro. Puoi scegliere tra una bici normale o una elettrica.\n\nUn dettaglio importante quando restituisci la bici: aspetta che sullo schermo compaia la scritta 'Stop'. Solo allora la bici è effettivamente restituita e il contatore si ferma. Se te lo dimentichi, il contatore continua a correre.\n\nTramite l'app Vélib vedi quante bici ci sono in ogni stazione e se c'è spazio per la restituzione. Le stazioni possono essere piene – allora vai alla prossima."
+      }
+    }
+  ]
+}
