@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-14T11:36:53Z",
+  "updated_at": "2026-05-15T13:40:15Z",
   "intro": {
     "nl": "Even voorstellen: wij zijn Petra en Erik. Vanuit onze uitvalsbasis in Amsterdam reizen we sinds 2017 één à twee keer per maand naar ons eigen plekje in Le Marais. Of we nu met z’n tweeën zijn, met vrienden, of wanneer onze studerende kinderen het appartement overnemen met hun eigen vrienden: Parijs verveelt nooit. Zelfs met een beperkt studentenbudget is er in deze stad namelijk ontzettend veel te beleven.\n\nOnze passie voor goed eten en nieuwe ontdekkingen leidde tot een telefoon vol digitale notities. Die persoonlijke lijstjes hebben we nu gebundeld in deze app. Je zult hier geen toeristische trekpleisters zoals de Eiffeltoren vinden, maar juist die specifieke, eigenzinnige plekken waar wij zelf het liefst komen. Helemaal onze eigen smaak dus. Veel plezier met onze persoonlijke favorieten!",
     "fr": "Bonjour ! Nous sommes Petra et Erik. Depuis 2017, nous quittons Amsterdam une à deux fois par mois pour retrouver notre petit coin de paradis dans Le Marais. Que ce soit en couple, entre amis, ou lorsque nos enfants, étudiants, s'approprient l'appartement avec leurs camarades : Paris ne manque jamais d'occasions de nous séduire. Même avec un budget modeste, cette ville regorge de possibilités.\n\nNotre amour pour la bonne cuisine et les belles découvertes a rempli nos téléphones de notes. Nous avons décidé de rassembler toutes ces adresses personnelles dans cette application. Oubliez la Tour Eiffel et les classiques, ici vous trouverez plutôt les lieux authentiques et originaux que *nous* adorons. C'est notre Paris, à vous de l'explorer ! On espère que nos coups de cœur vous plairont.",
@@ -323,6 +323,7 @@
       "name": "English Standup CouCou Comedy",
       "section": "map",
       "categories": [
+        "restaurants-bars",
         "culture"
       ],
       "address": "1, Rue Laplace",
